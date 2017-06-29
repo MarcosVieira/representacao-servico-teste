@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="0.121938">
+<testcase classname=": Divisão" name=": Resultado com parte decimal" time="0.090152">
+<system-out><![CDATA[Given que foi informado 3 para a calculadora................................passed
+And que foi informado 2 para a calculadora..................................passed
+When eu peço para ser feita a divisão.......................................passed
+Then o resultado calculado deverá ser 1.5...................................passed
+]]></system-out>
+</testcase>
+<testcase classname=": Divisão" name="Resultado inteiro" time="0.000167">
+<system-out><![CDATA[Given que foi informado 6 para a calculadora................................passed
+And que foi informado 3 para a calculadora..................................passed
+When eu peço para ser feita a divisão.......................................passed
+Then o resultado calculado deverá ser 2.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Multiplicacao" name="Resultado com parte decimal para operando com parte decimal" time="0.000145">
+<system-out><![CDATA[Given que foi informado 5.5 para a calculadora..............................passed
+And que foi informado 3 para a calculadora..................................passed
+When eu peço para ser feita a multiplicação.................................passed
+Then o resultado calculado deverá ser 16.5..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Multiplicacao" name="Resultado inteiro para operando com parte decimal" time="0.000142">
+<system-out><![CDATA[Given que foi informado 6.5 para a calculadora..............................passed
+And que foi informado 2 para a calculadora..................................passed
+When eu peço para ser feita a multiplicação.................................passed
+Then o resultado calculado deverá ser 13....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Multiplicacao" name="Resultado inteiro para operandos inteiros" time="0.000114">
+<system-out><![CDATA[Given que foi informado 4 para a calculadora................................passed
+And que foi informado 3 para a calculadora..................................passed
+When eu peço para ser feita a multiplicação.................................passed
+Then o resultado calculado deverá ser 12....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Operações básicas entre dois números" name="Adiciona dois números" time="0.026932">
+<system-out><![CDATA[Given que foi informado "2+2"...............................................passed
+When for executada a operação...............................................passed
+Then o resultado deverá ser "4".............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Operações básicas entre dois números" name="Subtrai dois números" time="0.003767">
+<system-out><![CDATA[Given que foi informado "9-4"...............................................passed
+When for executada a operação...............................................passed
+Then o resultado deverá ser "5".............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Operações básicas entre dois números" name="Subtração" time="0.000519">
+<system-out><![CDATA[When Eu subtraio 5 de 9.....................................................passed
+Then O resultado é 4........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

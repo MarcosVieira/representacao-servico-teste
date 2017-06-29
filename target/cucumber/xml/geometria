@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="2" tests="2" time="0.005948">
+<testcase classname="Cálculo de área e perímetro de formas geométricas" name="Cálculo do perímetro do quadrado" time="0.005651">
+<skipped><![CDATA[Given que o quadrado tem lado de 5 "cm".....................................pending
+When é feito cálculo do perímetro...........................................skipped
+Then deve mostrar 20 "cm"...................................................skipped
+]]></skipped>
+</testcase>
+<testcase classname="Cálculo de área e perímetro de formas geométricas" name="Cálculo da área do quadrado" time="0.000297">
+<skipped><![CDATA[Given que o quadrado tem lado de 5 "cm".....................................pending
+When é feito do cálculo da área.............................................skipped
+Then deve mostrar 25 "cm2"..................................................skipped
+]]></skipped>
+</testcase>
+</testsuite>

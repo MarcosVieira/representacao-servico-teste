@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="0.019409">
+<testcase classname="Testar as operacoes básicas de banco" name="Verifica a quantidade de contas criadas" time="0.007847">
+<system-out><![CDATA[Given que as contas são do "Banco do Brasil"................................passed
+Then no banco "Banco do Brasil".............................................passed
+And a quantidade de contas é 3..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as operacoes básicas de banco" name="Verifica o total de dinheiro no banco" time="0.003326">
+<system-out><![CDATA[Given que as contas são do "Banco do Brasil"................................passed
+When o cálculo do total de dinheiro.........................................passed
+Then o total de dinheiro no banco é 600.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as operacoes básicas de banco" name="Cliente com maior saldo no banco" time="0.003494">
+<system-out><![CDATA[Given que as contas são do "Banco do Brasil"................................passed
+When o cálculo do cliente com maior saldo...................................passed
+Then o nome do cliente com maior saldo é "Carabino Tiro Certo"..............passed
+And o saldo da conta com maior saldo é 300..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as operacoes básicas de banco" name="Cliente com menor saldo no banco" time="0.002347">
+<system-out><![CDATA[Given que as contas são do "Banco do Brasil"................................passed
+When o cálculo do cliente com menor saldo...................................passed
+Then o nome do cliente com menor saldo é "Abias Corpus Da Silva"............passed
+And o saldo da conta com menor saldo é 100..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as operacoes básicas de banco" name="Contas com saldo acima de um valor" time="0.002395">
+<system-out><![CDATA[Given que as contas são do "Banco do Brasil"................................passed
+When o cálculo das contas com saldo igual ou acima de 200...................passed
+Then a relação das contas é "222,333".......................................passed
+]]></system-out>
+</testcase>
+</testsuite>

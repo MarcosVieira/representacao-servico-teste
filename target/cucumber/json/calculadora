@@ -1,0 +1,614 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "# language: en"
+      }
+    ],
+    "line": 3,
+    "elements": [
+      {
+        "line": 6,
+        "name": ": Resultado com parte decimal",
+        "description": "",
+        "id": ":-divisão;:-resultado-com-parte-decimal",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 67221078,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "que foi informado 3 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 40501,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "que foi informado 2 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 39406,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "eu peço para ser feita a divisão",
+            "match": {
+              "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_divisao()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 22850864,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "o resultado calculado deverá ser 1.5",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1.5",
+                  "offset": 33
+                }
+              ],
+              "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Resultado inteiro",
+        "description": "",
+        "id": ":-divisão;resultado-inteiro",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 65155,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "que foi informado 6 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 40739,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "que foi informado 3 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20716,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "eu peço para ser feita a divisão",
+            "match": {
+              "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_divisao()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 40774,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "o resultado calculado deverá ser 2",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 33
+                }
+              ],
+              "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": ": Divisão",
+    "description": "Para evitar erros, os caixas devem poder calcular frações",
+    "id": ":-divisão",
+    "keyword": "Feature",
+    "uri": "cucumber/features/calculadora/Divisao.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@Calculadora"
+      }
+    ]
+  },
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "# language: en"
+      }
+    ],
+    "line": 3,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Resultado com parte decimal para operando com parte decimal",
+        "description": "",
+        "id": "multiplicacao;resultado-com-parte-decimal-para-operando-com-parte-decimal",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 51705,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "que foi informado 5.5 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5.5",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 25421,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "que foi informado 3 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 29326,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "eu peço para ser feita a multiplicação",
+            "match": {
+              "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_multiplicacao()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 38072,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "o resultado calculado deverá ser 16.5",
+            "match": {
+              "arguments": [
+                {
+                  "val": "16.5",
+                  "offset": 33
+                }
+              ],
+              "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Resultado inteiro para operando com parte decimal",
+        "description": "",
+        "id": "multiplicacao;resultado-inteiro-para-operando-com-parte-decimal",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 50527,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "que foi informado 6.5 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6.5",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 34250,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "que foi informado 2 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11347,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "eu peço para ser feita a multiplicação",
+            "match": {
+              "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_multiplicacao()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 45397,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "o resultado calculado deverá ser 13",
+            "match": {
+              "arguments": [
+                {
+                  "val": "13",
+                  "offset": 33
+                }
+              ],
+              "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Resultado inteiro para operandos inteiros",
+        "description": "",
+        "id": "multiplicacao;resultado-inteiro-para-operandos-inteiros",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 40107,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "que foi informado 4 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 24995,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "que foi informado 3 para a calculadora",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 18
+                }
+              ],
+              "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10207,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "eu peço para ser feita a multiplicação",
+            "match": {
+              "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_multiplicacao()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 38480,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "o resultado calculado deverá ser 12",
+            "match": {
+              "arguments": [
+                {
+                  "val": "12",
+                  "offset": 33
+                }
+              ],
+              "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Multiplicacao",
+    "description": "Para evitar erros, os caixas devem poder calcular frações",
+    "id": "multiplicacao",
+    "keyword": "Feature",
+    "uri": "cucumber/features/calculadora/Multiplicacao.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@Calculadora"
+      }
+    ]
+  },
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "# language: en"
+      }
+    ],
+    "line": 3,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Adiciona dois números",
+        "description": "",
+        "id": "operações-básicas-entre-dois-números;adiciona-dois-números",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 71163,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "que foi informado \"2+2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2+2",
+                  "offset": 19
+                }
+              ],
+              "location": "OperacoesBasicasSteps.que_foi_informado(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 26768738,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "for executada a operação",
+            "match": {
+              "location": "OperacoesBasicasSteps.for_executada_a_operacao()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 92437,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "o resultado deverá ser \"4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 24
+                }
+              ],
+              "location": "OperacoesBasicasSteps.o_resultado_devera_ser(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 10,
+        "name": "Subtrai dois números",
+        "description": "",
+        "id": "operações-básicas-entre-dois-números;subtrai-dois-números",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 51878,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "que foi informado \"9-4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "9-4",
+                  "offset": 19
+                }
+              ],
+              "location": "OperacoesBasicasSteps.que_foi_informado(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3663898,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "for executada a operação",
+            "match": {
+              "location": "OperacoesBasicasSteps.for_executada_a_operacao()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 51200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "o resultado deverá ser \"5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 24
+                }
+              ],
+              "location": "OperacoesBasicasSteps.o_resultado_devera_ser(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "Subtração",
+        "description": "",
+        "id": "operações-básicas-entre-dois-números;subtração",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 189503,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Eu subtraio 5 de 9",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 12
+                },
+                {
+                  "val": "9",
+                  "offset": 17
+                }
+              ],
+              "location": "OperacoesBasicasSteps.euSubtraioDe(Double,Double)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 329357,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "O resultado é 4",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 14
+                }
+              ],
+              "location": "OperacoesBasicasSteps.oResultadoE(double)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Operações básicas entre dois números",
+    "description": "",
+    "id": "operações-básicas-entre-dois-números",
+    "keyword": "Feature",
+    "uri": "cucumber/features/calculadora/OperacoesBasicas.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@Calculadora"
+      }
+    ]
+  }
+]

@@ -1,0 +1,591 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Cria todas as contas e associa ao banco",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5098542,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "que as contas são do \"Banco do Brasil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Banco do Brasil",
+                  "offset": 22
+                }
+              ],
+              "location": "BancoSteps.groovy:20"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "dono",
+                  "numero",
+                  "saldo",
+                  "limite"
+                ],
+                "line": 7
+              },
+              {
+                "cells": [
+                  "Abias Corpus Da Silva",
+                  "111",
+                  "100",
+                  "1000"
+                ],
+                "line": 8
+              },
+              {
+                "cells": [
+                  "Antônio Morrendo das Dores",
+                  "222",
+                  "200",
+                  "1200"
+                ],
+                "line": 9
+              },
+              {
+                "cells": [
+                  "Carabino Tiro Certo",
+                  "333",
+                  "300",
+                  "1300"
+                ],
+                "line": 10
+              }
+            ],
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Verifica a quantidade de contas criadas",
+        "description": "",
+        "id": "testar-as-operacoes-básicas-de-banco;verifica-a-quantidade-de-contas-criadas",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2166834,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "no banco \"Banco do Brasil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Banco do Brasil",
+                  "offset": 10
+                }
+              ],
+              "location": "BancoSteps.groovy:29"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 581294,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "a quantidade de contas é 3",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 25
+                }
+              ],
+              "location": "BancoSteps.groovy:33"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "Cria todas as contas e associa ao banco",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 543322,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "que as contas são do \"Banco do Brasil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Banco do Brasil",
+                  "offset": 22
+                }
+              ],
+              "location": "BancoSteps.groovy:20"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "dono",
+                  "numero",
+                  "saldo",
+                  "limite"
+                ],
+                "line": 7
+              },
+              {
+                "cells": [
+                  "Abias Corpus Da Silva",
+                  "111",
+                  "100",
+                  "1000"
+                ],
+                "line": 8
+              },
+              {
+                "cells": [
+                  "Antônio Morrendo das Dores",
+                  "222",
+                  "200",
+                  "1200"
+                ],
+                "line": 9
+              },
+              {
+                "cells": [
+                  "Carabino Tiro Certo",
+                  "333",
+                  "300",
+                  "1300"
+                ],
+                "line": 10
+              }
+            ],
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "Verifica o total de dinheiro no banco",
+        "description": "",
+        "id": "testar-as-operacoes-básicas-de-banco;verifica-o-total-de-dinheiro-no-banco",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2545446,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "o cálculo do total de dinheiro",
+            "match": {
+              "location": "BancoSteps.groovy:37"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 236957,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "o total de dinheiro no banco é 600",
+            "match": {
+              "arguments": [
+                {
+                  "val": "600",
+                  "offset": 31
+                }
+              ],
+              "location": "BancoSteps.groovy:42"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "Cria todas as contas e associa ao banco",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 472098,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "que as contas são do \"Banco do Brasil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Banco do Brasil",
+                  "offset": 22
+                }
+              ],
+              "location": "BancoSteps.groovy:20"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "dono",
+                  "numero",
+                  "saldo",
+                  "limite"
+                ],
+                "line": 7
+              },
+              {
+                "cells": [
+                  "Abias Corpus Da Silva",
+                  "111",
+                  "100",
+                  "1000"
+                ],
+                "line": 8
+              },
+              {
+                "cells": [
+                  "Antônio Morrendo das Dores",
+                  "222",
+                  "200",
+                  "1200"
+                ],
+                "line": 9
+              },
+              {
+                "cells": [
+                  "Carabino Tiro Certo",
+                  "333",
+                  "300",
+                  "1300"
+                ],
+                "line": 10
+              }
+            ],
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Cliente com maior saldo no banco",
+        "description": "",
+        "id": "testar-as-operacoes-básicas-de-banco;cliente-com-maior-saldo-no-banco",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2268805,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "o cálculo do cliente com maior saldo",
+            "match": {
+              "location": "BancoSteps.groovy:46"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 579290,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "o nome do cliente com maior saldo é \"Carabino Tiro Certo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Carabino Tiro Certo",
+                  "offset": 37
+                }
+              ],
+              "location": "BancoSteps.groovy:52"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 174178,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "o saldo da conta com maior saldo é 300",
+            "match": {
+              "arguments": [
+                {
+                  "val": "300",
+                  "offset": 35
+                }
+              ],
+              "location": "BancoSteps.groovy:56"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "Cria todas as contas e associa ao banco",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 959159,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "que as contas são do \"Banco do Brasil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Banco do Brasil",
+                  "offset": 22
+                }
+              ],
+              "location": "BancoSteps.groovy:20"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "dono",
+                  "numero",
+                  "saldo",
+                  "limite"
+                ],
+                "line": 7
+              },
+              {
+                "cells": [
+                  "Abias Corpus Da Silva",
+                  "111",
+                  "100",
+                  "1000"
+                ],
+                "line": 8
+              },
+              {
+                "cells": [
+                  "Antônio Morrendo das Dores",
+                  "222",
+                  "200",
+                  "1200"
+                ],
+                "line": 9
+              },
+              {
+                "cells": [
+                  "Carabino Tiro Certo",
+                  "333",
+                  "300",
+                  "1300"
+                ],
+                "line": 10
+              }
+            ],
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "Cliente com menor saldo no banco",
+        "description": "",
+        "id": "testar-as-operacoes-básicas-de-banco;cliente-com-menor-saldo-no-banco",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000140,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "o cálculo do cliente com menor saldo",
+            "match": {
+              "location": "BancoSteps.groovy:60"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 235482,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "o nome do cliente com menor saldo é \"Abias Corpus Da Silva\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Abias Corpus Da Silva",
+                  "offset": 37
+                }
+              ],
+              "location": "BancoSteps.groovy:66"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 152197,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "o saldo da conta com menor saldo é 100",
+            "match": {
+              "arguments": [
+                {
+                  "val": "100",
+                  "offset": 35
+                }
+              ],
+              "location": "BancoSteps.groovy:70"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "Cria todas as contas e associa ao banco",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 470205,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "que as contas são do \"Banco do Brasil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Banco do Brasil",
+                  "offset": 22
+                }
+              ],
+              "location": "BancoSteps.groovy:20"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "dono",
+                  "numero",
+                  "saldo",
+                  "limite"
+                ],
+                "line": 7
+              },
+              {
+                "cells": [
+                  "Abias Corpus Da Silva",
+                  "111",
+                  "100",
+                  "1000"
+                ],
+                "line": 8
+              },
+              {
+                "cells": [
+                  "Antônio Morrendo das Dores",
+                  "222",
+                  "200",
+                  "1200"
+                ],
+                "line": 9
+              },
+              {
+                "cells": [
+                  "Carabino Tiro Certo",
+                  "333",
+                  "300",
+                  "1300"
+                ],
+                "line": 10
+              }
+            ],
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 30,
+        "name": "Contas com saldo acima de um valor",
+        "description": "",
+        "id": "testar-as-operacoes-básicas-de-banco;contas-com-saldo-acima-de-um-valor",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 768120,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "o cálculo das contas com saldo igual ou acima de 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 49
+                }
+              ],
+              "location": "BancoSteps.groovy:74"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1156984,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "a relação das contas é \"222,333\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "222,333",
+                  "offset": 24
+                }
+              ],
+              "location": "BancoSteps.groovy:78"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Testar as operacoes básicas de banco",
+    "description": "O sistema deve prover operações básicas de banco de forma correta.",
+    "id": "testar-as-operacoes-básicas-de-banco",
+    "keyword": "Feature",
+    "uri": "cucumber/features/banco/Banco.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Banco"
+      }
+    ]
+  }
+]

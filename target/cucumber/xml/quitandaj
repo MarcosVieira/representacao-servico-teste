@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.090006">
+<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Verifica a quantidade de produtos na quitanda" time="0.019947">
+<system-out><![CDATA[Given que a quitanda é do "Zé das Couves"...................................passed
+Then a quantidade de produtos será 8........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Verifica o inventário na quitanda" time="0.019931">
+<system-out><![CDATA[Given que a quitanda é do "Zé das Couves"...................................passed
+Then a quantidade de itens será 149.........................................passed
+And o total dos itens será R$ 202.00........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Encontra produtos com estoque mínimo" time="0.050128">
+<system-out><![CDATA[Given que a quitanda é do "Zé das Couves"...................................passed
+When pedir a relação dos produtos com estoque abaixo de 10..................passed
+Then deverá ser mostrada a relação "123,231"................................passed
+]]></system-out>
+</testcase>
+</testsuite>

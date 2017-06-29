@@ -1,0 +1,290 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Testar saque e depósito",
+        "description": "",
+        "id": "testar-as-operações-básicas-de-conta;testar-saque-e-depósito;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2153653,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a conta criada para o dono \"Brendo\" de número 111 com limite 1000 e saldo 0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Brendo",
+                  "offset": 28
+                },
+                {
+                  "val": "111",
+                  "offset": 46
+                },
+                {
+                  "val": "1000",
+                  "offset": 61
+                },
+                {
+                  "val": "0",
+                  "offset": 74
+                }
+              ],
+              "location": "ContaSteps.groovy:17"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 708919,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "o dono realiza um depósito no valor de 100 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "100",
+                  "offset": 39
+                }
+              ],
+              "location": "ContaSteps.groovy:29"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 580330,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "o dono realiza um saque no valor de 10 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 36
+                }
+              ],
+              "location": "ContaSteps.groovy:35"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81296,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "o dono realiza um saque no valor de 10 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 36
+                }
+              ],
+              "location": "ContaSteps.groovy:35"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 276519,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "o dono tem saldo na conta no valor de 80",
+            "match": {
+              "arguments": [
+                {
+                  "val": "80",
+                  "offset": 38
+                }
+              ],
+              "location": "ContaSteps.groovy:41"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Conta"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Testar saque e depósito",
+        "description": "",
+        "id": "testar-as-operações-básicas-de-conta;testar-saque-e-depósito;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 151410,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a conta criada para o dono \"Hiago\" de número 222 com limite 1000 e saldo 0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hiago",
+                  "offset": 28
+                },
+                {
+                  "val": "222",
+                  "offset": 45
+                },
+                {
+                  "val": "1000",
+                  "offset": 60
+                },
+                {
+                  "val": "0",
+                  "offset": 73
+                }
+              ],
+              "location": "ContaSteps.groovy:17"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 70826,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "o dono realiza um depósito no valor de 200 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 39
+                }
+              ],
+              "location": "ContaSteps.groovy:29"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 53970,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "o dono realiza um saque no valor de 10 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 36
+                }
+              ],
+              "location": "ContaSteps.groovy:35"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 46396,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "o dono realiza um saque no valor de 10 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 36
+                }
+              ],
+              "location": "ContaSteps.groovy:35"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 60363,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "o dono tem saldo na conta no valor de 180",
+            "match": {
+              "arguments": [
+                {
+                  "val": "180",
+                  "offset": 38
+                }
+              ],
+              "location": "ContaSteps.groovy:41"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Conta"
+          }
+        ]
+      }
+    ],
+    "name": "Testar as operações básicas de conta",
+    "description": "",
+    "id": "testar-as-operações-básicas-de-conta",
+    "keyword": "Feature",
+    "uri": "cucumber/features/banco/Conta.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Conta"
+      }
+    ]
+  }
+]

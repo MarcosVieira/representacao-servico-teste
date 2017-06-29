@@ -1,0 +1,290 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Testar saque e depósito",
+        "description": "",
+        "id": "testar-as-operações-básicas-de-conta;testar-saque-e-depósito;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1687517,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a conta criada para o dono \"Brendo\" de número 111 com limite 1000 e saldo 0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Brendo",
+                  "offset": 28
+                },
+                {
+                  "val": "111",
+                  "offset": 46
+                },
+                {
+                  "val": "1000",
+                  "offset": 61
+                },
+                {
+                  "val": "0",
+                  "offset": 74
+                }
+              ],
+              "location": "ContaSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 48326,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "o dono realiza um depósito no valor de 100 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "100",
+                  "offset": 39
+                }
+              ],
+              "location": "ContaSteps.o_dono_realiza_um_deposito_na_conta(Double)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 48149,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "o dono realiza um saque no valor de 10 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 36
+                }
+              ],
+              "location": "ContaSteps.o_dono_realiza_um_saque_na_conta(Double)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 28613,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "o dono realiza um saque no valor de 10 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 36
+                }
+              ],
+              "location": "ContaSteps.o_dono_realiza_um_saque_na_conta(Double)"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 63884,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "o dono tem saldo na conta no valor de 80",
+            "match": {
+              "arguments": [
+                {
+                  "val": "80",
+                  "offset": 38
+                }
+              ],
+              "location": "ContaSteps.o_dono_tem_o_saldo_no_valor_de(Double)"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Conta"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Testar saque e depósito",
+        "description": "",
+        "id": "testar-as-operações-básicas-de-conta;testar-saque-e-depósito;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 104917,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "a conta criada para o dono \"Hiago\" de número 222 com limite 1000 e saldo 0",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hiago",
+                  "offset": 28
+                },
+                {
+                  "val": "222",
+                  "offset": 45
+                },
+                {
+                  "val": "1000",
+                  "offset": 60
+                },
+                {
+                  "val": "0",
+                  "offset": 73
+                }
+              ],
+              "location": "ContaSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
+            },
+            "matchedColumns": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 44380,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "o dono realiza um depósito no valor de 200 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 39
+                }
+              ],
+              "location": "ContaSteps.o_dono_realiza_um_deposito_na_conta(Double)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 39568,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "o dono realiza um saque no valor de 10 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 36
+                }
+              ],
+              "location": "ContaSteps.o_dono_realiza_um_saque_na_conta(Double)"
+            },
+            "matchedColumns": [
+              5
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 39721,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "o dono realiza um saque no valor de 10 na conta",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 36
+                }
+              ],
+              "location": "ContaSteps.o_dono_realiza_um_saque_na_conta(Double)"
+            },
+            "matchedColumns": [
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 47239,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "o dono tem saldo na conta no valor de 180",
+            "match": {
+              "arguments": [
+                {
+                  "val": "180",
+                  "offset": 38
+                }
+              ],
+              "location": "ContaSteps.o_dono_tem_o_saldo_no_valor_de(Double)"
+            },
+            "matchedColumns": [
+              7
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Conta"
+          }
+        ]
+      }
+    ],
+    "name": "Testar as operações básicas de conta",
+    "description": "",
+    "id": "testar-as-operações-básicas-de-conta",
+    "keyword": "Feature",
+    "uri": "cucumber/features/banco/Conta.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Conta"
+      }
+    ]
+  }
+]

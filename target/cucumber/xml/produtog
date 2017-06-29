@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="0.013175">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer uma venda com produto disponível" time="0.007537">
+<system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
+When solicita a venda de 2 do produto.......................................passed
+Then a venda é realizada....................................................passed
+And o estoque do produto fica 3.............................................passed
+And a quantidade vendida é 2................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer uma venda com produto indisponível" time="0.000962">
+<system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
+When solicita a venda de 6 do produto.......................................passed
+Then a venda não é realizada................................................passed
+And o estoque do produto fica 5.............................................passed
+And a quantidade vendida é 0................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer sequência de venda com produto disponível" time="0.000333">
+<system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
+When solicita a venda de 2 do produto.......................................passed
+And solicita a venda de 3 do produto........................................passed
+Then a venda é realizada....................................................passed
+And o estoque do produto fica 0.............................................passed
+And a quantidade vendida é 5................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer sequência de venda com produto indisponível" time="0.001611">
+<system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
+When solicita a venda de 3 do produto.......................................passed
+And solicita a venda de 4 do produto........................................passed
+Then a venda não é realizada................................................passed
+And o estoque do produto fica 2.............................................passed
+And a quantidade vendida é 3................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto" time="0.001169">
+<system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
+Given foi criado o produto "pepino kg" de número 111 com preço 3.50 e estoque 10.passed
+When solicita a venda de 2 do produto.......................................passed
+And solicita a venda de 5 do produto........................................passed
+And é feita uma reposição de 1 do produto...................................passed
+Then o estoque do produto fica 4............................................passed
+And a quantidade vendida é 7................................................passed
+And e o total das vendas do produto será de 24.50...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 2" time="0.000539">
+<system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
+Given foi criado o produto "pimentao kg" de número 123 com preço 5.00 e estoque 08.passed
+When solicita a venda de 3 do produto.......................................passed
+And solicita a venda de 5 do produto........................................passed
+And é feita uma reposição de 1 do produto...................................passed
+Then o estoque do produto fica 1............................................passed
+And a quantidade vendida é 8................................................passed
+And e o total das vendas do produto será de 40.00...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 3" time="0.000513">
+<system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
+Given foi criado o produto "gengibre kg" de número 234 com preço 3.00 e estoque 06.passed
+When solicita a venda de 4 do produto.......................................passed
+And solicita a venda de 4 do produto........................................passed
+And é feita uma reposição de 2 do produto...................................passed
+Then o estoque do produto fica 4............................................passed
+And a quantidade vendida é 4................................................passed
+And e o total das vendas do produto será de 12.00...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 4" time="0.000511">
+<system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
+Given foi criado o produto "pimenta kg" de número 345 com preço 4.50 e estoque 03.passed
+When solicita a venda de 5 do produto.......................................passed
+And solicita a venda de 4 do produto........................................passed
+And é feita uma reposição de 3 do produto...................................passed
+Then o estoque do produto fica 6............................................passed
+And a quantidade vendida é 0................................................passed
+And e o total das vendas do produto será de 00.00...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
