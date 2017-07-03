@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 		features = "classpath:cucumber/features/banco",
 		tags = "@ContaOperacao", 
-		glue = "classpath:cucumberG.steps",
+		glue = "classpath:cucumberG.banco.steps",
 		monochrome = true,
 		strict = true,
 		plugin = {"pretty", "html:target/cucumber/html/contaoperacaog", "json:target/cucumber/json/contaoperacaog", "junit:target/cucumber/xml/contaoperacaog"})

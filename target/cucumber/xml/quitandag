@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.062007">
-<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Verifica a quantidade de produtos na quitanda" time="0.048202">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.095451">
+<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Verifica a quantidade de produtos na quitanda" time="0.039162">
 <system-out><![CDATA[Given que a quitanda é do "Zé das Couves"...................................passed
 Then a quantidade de produtos será 8........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Verifica o inventário na quitanda" time="0.007656">
+<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Verifica o inventário na quitanda" time="0.008276">
 <system-out><![CDATA[Given que a quitanda é do "Zé das Couves"...................................passed
 Then a quantidade de itens será 149.........................................passed
 And o total dos itens será R$ 202.00........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Encontra produtos com estoque mínimo" time="0.006149">
+<testcase classname="Testar as operações de montagem de pedidos de produtos" name="Encontra produtos com estoque mínimo" time="0.048013">
 <system-out><![CDATA[Given que a quitanda é do "Zé das Couves"...................................passed
 When pedir a relação dos produtos com estoque abaixo de 10..................passed
 Then deverá ser mostrada a relação "123,231"................................passed

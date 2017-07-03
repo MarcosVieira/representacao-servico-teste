@@ -100,14 +100,14 @@ formatter.match({
   "location": "LibrarySteps.a_book_exists_with_isbn(String)"
 });
 formatter.result({
-  "duration": 146838736,
+  "duration": 124648082,
   "status": "passed"
 });
 formatter.match({
   "location": "LibrarySteps.a_user_retrieves_the_book_by_isbn()"
 });
 formatter.result({
-  "duration": 1536436474,
+  "duration": 1243479107,
   "status": "passed"
 });
 formatter.match({
@@ -120,21 +120,21 @@ formatter.match({
   "location": "LibrarySteps.verify_status_code(int)"
 });
 formatter.result({
-  "duration": 27997580,
+  "duration": 21160730,
   "status": "passed"
 });
 formatter.match({
   "location": "LibrarySteps.response_equals(String,String\u003e)"
 });
 formatter.result({
-  "duration": 233910692,
+  "duration": 258482909,
   "status": "passed"
 });
 formatter.match({
   "location": "LibrarySteps.response_contains_in_any_order(String,String\u003e)"
 });
 formatter.result({
-  "duration": 22238926,
+  "duration": 29980944,
   "status": "passed"
 });
 });

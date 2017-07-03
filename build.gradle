@@ -35,7 +35,7 @@ ext {
     cucumberVersion = '1.2.5'
     junitVersion = '4.12'
     gherkinVersion = '2.12.2'
-    assertjVersion = '3.8.0'
+    assertJVersion = '3.8.0'
     apacheCommonsVersion = '3.5'
     restAssuredVersion = '3.0.3'
 }
@@ -72,7 +72,7 @@ dependencies {
     testCompile "org.spockframework:spock-core:$spockCoreVersion"
     testCompile "com.athaydes:spock-reports:$spockReportsVersion"
     testCompile "junit:junit:$junitVersion"
-    testCompile "org.assertj:assertj-core:$assertjVersion"
+    testCompile "org.assertj:assertj-core:$assertJVersion"
     testCompile "info.cukes:cucumber-java:$cucumberVersion"
     testCompile "info.cukes:cucumber-groovy:$cucumberVersion"
     testCompile "info.cukes:cucumber-junit:$cucumberVersion"

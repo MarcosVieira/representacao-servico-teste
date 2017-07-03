@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="0.009612">
-<testcase classname="Cucumber Runner Rocks" name="Many cukes" time="0.006288">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="0.011404">
+<testcase classname="Cucumber Runner Rocks" name="Many cukes" time="0.008332">
 <system-out><![CDATA[Given I have 12 cukes in my belly...........................................passed
 And a big basket with cukes.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Cucumber Runner Rocks" name="Few cukes" time="0.000252">
+<testcase classname="Cucumber Runner Rocks" name="Few cukes" time="0.000134">
 <system-out><![CDATA[Given I have 3 cukes in my belly............................................passed
 And I have 5 cukes in my belly..............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Cucumber Runner Rocks" name="Various things" time="0.000158">
+<testcase classname="Cucumber Runner Rocks" name="Various things" time="0.000214">
 <system-out><![CDATA[Given I have 13 cukes in my belly...........................................passed
 Then I should be happy......................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Cucumber Runner Rocks" name="Various things 2" time="0.00014">
+<testcase classname="Cucumber Runner Rocks" name="Various things 2" time="0.000136">
 <system-out><![CDATA[Given I have 4 apples in my belly...........................................passed
 Then I should be tired......................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Cucumber Runner Rocks" name="a table" time="0.001327">
+<testcase classname="Cucumber Runner Rocks" name="a table" time="0.001207">
 <system-out><![CDATA[Given the following table:..................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Cucumber Runner Rocks" name="see colors" time="0.000527">
+<testcase classname="Cucumber Runner Rocks" name="see colors" time="0.000636">
 <system-out><![CDATA[Given I see these colors:...................................................passed
 And I see these colors:.....................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Cucumber Runner Rocks" name="A date" time="0.000234">
+<testcase classname="Cucumber Runner Rocks" name="A date" time="0.000193">
 <system-out><![CDATA[Given today's date is "1971-10-03" and tomorrow is:.........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Cucumber Runner Rocks" name="Call a method or property from second world" time="0.000686">
+<testcase classname="Cucumber Runner Rocks" name="Call a method or property from second world" time="0.000552">
 <system-out><![CDATA[When set world property "Hello".............................................passed
 Then world property is "Hello"..............................................passed
 When world method call......................................................passed

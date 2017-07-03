@@ -2,7 +2,7 @@ $(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.
 formatter.feature({
   "line": 2,
   "name": "Testar as operações de saque e depósito em uma conta",
-  "description": "\nO sistema deve prover o saque e depósito na conta de forma correta, seguindo as seguintes restrições:\n1) Só libera o saque, se o valor do saque for menor ou igual ao valor do saldo disponível na conta\n2) Só libera o depósito, se o valor do depósito for menor ou igual ao valor do limite disponível na conta",
+  "description": "\r\nO sistema deve prover o saque e depósito na conta de forma correta, seguindo as seguintes restrições:\r\n1) Só libera o saque, se o valor do saque for menor ou igual ao valor do saldo disponível na conta\r\n2) Só libera o depósito, se o valor do depósito for menor ou igual ao valor do limite disponível na conta",
   "id": "testar-as-operações-de-saque-e-depósito-em-uma-conta",
   "keyword": "Feature",
   "tags": [
@@ -46,7 +46,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:18"
 });
 formatter.result({
-  "duration": 4229474,
+  "duration": 4248100,
   "status": "passed"
 });
 formatter.scenario({
@@ -82,7 +82,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:30"
 });
 formatter.result({
-  "duration": 102014,
+  "duration": 124714,
   "status": "passed"
 });
 formatter.match({
@@ -95,14 +95,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:36"
 });
 formatter.result({
-  "duration": 224022,
+  "duration": 250653,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.groovy:42"
 });
 formatter.result({
-  "duration": 128203,
+  "duration": 109567,
   "status": "passed"
 });
 formatter.background({
@@ -139,7 +139,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:18"
 });
 formatter.result({
-  "duration": 159517,
+  "duration": 167640,
   "status": "passed"
 });
 formatter.scenario({
@@ -175,7 +175,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:30"
 });
 formatter.result({
-  "duration": 66398,
+  "duration": 49227,
   "status": "passed"
 });
 formatter.match({
@@ -188,14 +188,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:36"
 });
 formatter.result({
-  "duration": 69599,
+  "duration": 53605,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.groovy:42"
 });
 formatter.result({
-  "duration": 26739,
+  "duration": 19113,
   "status": "passed"
 });
 formatter.background({
@@ -232,7 +232,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:18"
 });
 formatter.result({
-  "duration": 102960,
+  "duration": 99143,
   "status": "passed"
 });
 formatter.scenario({
@@ -268,7 +268,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:30"
 });
 formatter.result({
-  "duration": 38618,
+  "duration": 42427,
   "status": "passed"
 });
 formatter.match({
@@ -281,14 +281,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:36"
 });
 formatter.result({
-  "duration": 56349,
+  "duration": 58139,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.groovy:46"
 });
 formatter.result({
-  "duration": 93126,
+  "duration": 78381,
   "status": "passed"
 });
 });

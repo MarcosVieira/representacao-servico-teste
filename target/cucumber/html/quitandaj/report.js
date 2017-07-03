@@ -123,7 +123,7 @@ formatter.match({
   "location": "QuitandaSteps.que_a_quitanda_é_do(String,Produto\u003e)"
 });
 formatter.result({
-  "duration": 19154019,
+  "duration": 20052708,
   "status": "passed"
 });
 formatter.scenario({
@@ -149,7 +149,7 @@ formatter.match({
   "location": "QuitandaSteps.a_quantidade_de_produtos_será(Integer)"
 });
 formatter.result({
-  "duration": 792669,
+  "duration": 675466,
   "status": "passed"
 });
 formatter.background({
@@ -257,7 +257,7 @@ formatter.match({
   "location": "QuitandaSteps.que_a_quitanda_é_do(String,Produto\u003e)"
 });
 formatter.result({
-  "duration": 1426221,
+  "duration": 1764813,
   "status": "passed"
 });
 formatter.scenario({
@@ -288,7 +288,7 @@ formatter.match({
   "location": "QuitandaSteps.a_quantidade_de_itens_será(Integer)"
 });
 formatter.result({
-  "duration": 14824196,
+  "duration": 15792409,
   "status": "passed"
 });
 formatter.match({
@@ -301,7 +301,7 @@ formatter.match({
   "location": "QuitandaSteps.o_total_dos_itens_será_R$(Double)"
 });
 formatter.result({
-  "duration": 3680209,
+  "duration": 3850232,
   "status": "passed"
 });
 formatter.background({
@@ -409,7 +409,7 @@ formatter.match({
   "location": "QuitandaSteps.que_a_quitanda_é_do(String,Produto\u003e)"
 });
 formatter.result({
-  "duration": 1355847,
+  "duration": 1248154,
   "status": "passed"
 });
 formatter.scenario({
@@ -440,7 +440,7 @@ formatter.match({
   "location": "QuitandaSteps.pedir_a_relação_dos_produtos_com_estoque_abaixo_de(Integer)"
 });
 formatter.result({
-  "duration": 68154,
+  "duration": 60651,
   "status": "passed"
 });
 formatter.match({
@@ -453,7 +453,7 @@ formatter.match({
   "location": "QuitandaSteps.deverá_ser_mostrada_a_relação(String)"
 });
 formatter.result({
-  "duration": 48704066,
+  "duration": 13716849,
   "status": "passed"
 });
 });

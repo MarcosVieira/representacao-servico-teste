@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.005297">
-<testcase classname="Testar as operações de saque e depósito em uma conta" name="Testar saque em conta com saldo disponível" time="0.004684">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.005301">
+<testcase classname="Testar as operações de saque e depósito em uma conta" name="Testar saque em conta com saldo disponível" time="0.004733">
 <system-out><![CDATA[Given foi criada a conta do "Zé" de número 123 com limite 600 e saldo 500...passed
 When solicita um saque de 400 na conta......................................passed
 Then o saldo da conta fica 100..............................................passed
 And o saque é realizado.....................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as operações de saque e depósito em uma conta" name="Testar saque em conta de todo o saldo disponível" time="0.000322">
+<testcase classname="Testar as operações de saque e depósito em uma conta" name="Testar saque em conta de todo o saldo disponível" time="0.00029">
 <system-out><![CDATA[Given foi criada a conta do "Zé" de número 123 com limite 600 e saldo 500...passed
 When solicita um saque de 500 na conta......................................passed
 Then o saldo da conta fica 0................................................passed
 And o saque é realizado.....................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as operações de saque e depósito em uma conta" name="Testar saque em conta sem saldo disponível" time="0.000291">
+<testcase classname="Testar as operações de saque e depósito em uma conta" name="Testar saque em conta sem saldo disponível" time="0.000278">
 <system-out><![CDATA[Given foi criada a conta do "Zé" de número 123 com limite 600 e saldo 500...passed
 When solicita um saque de 501 na conta......................................passed
 Then o saldo da conta fica 500..............................................passed

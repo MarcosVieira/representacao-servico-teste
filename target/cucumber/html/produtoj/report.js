@@ -52,7 +52,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 4623396,
+  "duration": 4373694,
   "status": "passed"
 });
 formatter.scenario({
@@ -93,14 +93,14 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 642491,
+  "duration": 603535,
   "status": "passed"
 });
 formatter.match({
   "location": "ProdutoSteps.a_venda_é_realizada()"
 });
 formatter.result({
-  "duration": 443762,
+  "duration": 348253,
   "status": "passed"
 });
 formatter.match({
@@ -113,7 +113,7 @@ formatter.match({
   "location": "ProdutoSteps.o_estoque_do_produto_fica(Integer)"
 });
 formatter.result({
-  "duration": 81367,
+  "duration": 79489,
   "status": "passed"
 });
 formatter.match({
@@ -126,7 +126,7 @@ formatter.match({
   "location": "ProdutoSteps.a_quantidade_vendida_é(Integer)"
 });
 formatter.result({
-  "duration": 42331,
+  "duration": 38565,
   "status": "passed"
 });
 formatter.background({
@@ -163,7 +163,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 174872,
+  "duration": 148013,
   "status": "passed"
 });
 formatter.scenario({
@@ -204,14 +204,14 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 48548,
+  "duration": 62393,
   "status": "passed"
 });
 formatter.match({
   "location": "ProdutoSteps.a_venda_não_é_realizada()"
 });
 formatter.result({
-  "duration": 27097,
+  "duration": 28904,
   "status": "passed"
 });
 formatter.match({
@@ -224,7 +224,7 @@ formatter.match({
   "location": "ProdutoSteps.o_estoque_do_produto_fica(Integer)"
 });
 formatter.result({
-  "duration": 54999,
+  "duration": 46495,
   "status": "passed"
 });
 formatter.match({
@@ -237,7 +237,7 @@ formatter.match({
   "location": "ProdutoSteps.a_quantidade_vendida_é(Integer)"
 });
 formatter.result({
-  "duration": 32343,
+  "duration": 27084,
   "status": "passed"
 });
 formatter.background({
@@ -274,7 +274,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 131695,
+  "duration": 142532,
   "status": "passed"
 });
 formatter.scenario({
@@ -320,7 +320,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 65936,
+  "duration": 58038,
   "status": "passed"
 });
 formatter.match({
@@ -333,14 +333,14 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 35513,
+  "duration": 41636,
   "status": "passed"
 });
 formatter.match({
   "location": "ProdutoSteps.a_venda_é_realizada()"
 });
 formatter.result({
-  "duration": 14177,
+  "duration": 17662,
   "status": "passed"
 });
 formatter.match({
@@ -353,7 +353,7 @@ formatter.match({
   "location": "ProdutoSteps.o_estoque_do_produto_fica(Integer)"
 });
 formatter.result({
-  "duration": 35466,
+  "duration": 34380,
   "status": "passed"
 });
 formatter.match({
@@ -366,7 +366,7 @@ formatter.match({
   "location": "ProdutoSteps.a_quantidade_vendida_é(Integer)"
 });
 formatter.result({
-  "duration": 31463,
+  "duration": 39359,
   "status": "passed"
 });
 formatter.background({
@@ -403,7 +403,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 137360,
+  "duration": 136075,
   "status": "passed"
 });
 formatter.scenario({
@@ -449,7 +449,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 42248,
+  "duration": 37305,
   "status": "passed"
 });
 formatter.match({
@@ -462,14 +462,14 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 28047,
+  "duration": 27714,
   "status": "passed"
 });
 formatter.match({
   "location": "ProdutoSteps.a_venda_não_é_realizada()"
 });
 formatter.result({
-  "duration": 13930,
+  "duration": 13269,
   "status": "passed"
 });
 formatter.match({
@@ -482,7 +482,7 @@ formatter.match({
   "location": "ProdutoSteps.o_estoque_do_produto_fica(Integer)"
 });
 formatter.result({
-  "duration": 37058,
+  "duration": 36084,
   "status": "passed"
 });
 formatter.match({
@@ -495,7 +495,7 @@ formatter.match({
   "location": "ProdutoSteps.a_quantidade_vendida_é(Integer)"
 });
 formatter.result({
-  "duration": 34453,
+  "duration": 33498,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -664,7 +664,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 154886,
+  "duration": 141873,
   "status": "passed"
 });
 formatter.scenario({
@@ -762,7 +762,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 138475,
+  "duration": 117586,
   "status": "passed"
 });
 formatter.match({
@@ -775,7 +775,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 48408,
+  "duration": 44279,
   "status": "passed"
 });
 formatter.match({
@@ -788,7 +788,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 59808,
+  "duration": 33891,
   "status": "passed"
 });
 formatter.match({
@@ -801,7 +801,7 @@ formatter.match({
   "location": "ProdutoSteps.é_feita_uma_reposição_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 65120,
+  "duration": 64747,
   "status": "passed"
 });
 formatter.match({
@@ -814,7 +814,7 @@ formatter.match({
   "location": "ProdutoSteps.o_estoque_do_produto_fica(Integer)"
 });
 formatter.result({
-  "duration": 38801,
+  "duration": 36764,
   "status": "passed"
 });
 formatter.match({
@@ -827,7 +827,7 @@ formatter.match({
   "location": "ProdutoSteps.a_quantidade_vendida_é(Integer)"
 });
 formatter.result({
-  "duration": 29933,
+  "duration": 30618,
   "status": "passed"
 });
 formatter.match({
@@ -840,7 +840,7 @@ formatter.match({
   "location": "ProdutoSteps.e_o_total_das_vendas_do_produto_será_de(Double)"
 });
 formatter.result({
-  "duration": 65400,
+  "duration": 66164,
   "status": "passed"
 });
 formatter.background({
@@ -877,7 +877,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 121214,
+  "duration": 134825,
   "status": "passed"
 });
 formatter.scenario({
@@ -975,7 +975,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 122116,
+  "duration": 103036,
   "status": "passed"
 });
 formatter.match({
@@ -988,7 +988,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 33090,
+  "duration": 34853,
   "status": "passed"
 });
 formatter.match({
@@ -1001,7 +1001,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 37091,
+  "duration": 30097,
   "status": "passed"
 });
 formatter.match({
@@ -1014,7 +1014,7 @@ formatter.match({
   "location": "ProdutoSteps.é_feita_uma_reposição_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 27785,
+  "duration": 27571,
   "status": "passed"
 });
 formatter.match({
@@ -1027,7 +1027,7 @@ formatter.match({
   "location": "ProdutoSteps.o_estoque_do_produto_fica(Integer)"
 });
 formatter.result({
-  "duration": 41233,
+  "duration": 35536,
   "status": "passed"
 });
 formatter.match({
@@ -1040,7 +1040,7 @@ formatter.match({
   "location": "ProdutoSteps.a_quantidade_vendida_é(Integer)"
 });
 formatter.result({
-  "duration": 29748,
+  "duration": 29322,
   "status": "passed"
 });
 formatter.match({
@@ -1053,7 +1053,7 @@ formatter.match({
   "location": "ProdutoSteps.e_o_total_das_vendas_do_produto_será_de(Double)"
 });
 formatter.result({
-  "duration": 35371,
+  "duration": 35005,
   "status": "passed"
 });
 formatter.background({
@@ -1090,7 +1090,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 148655,
+  "duration": 124741,
   "status": "passed"
 });
 formatter.scenario({
@@ -1188,7 +1188,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 116721,
+  "duration": 90506,
   "status": "passed"
 });
 formatter.match({
@@ -1201,7 +1201,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 33049,
+  "duration": 34669,
   "status": "passed"
 });
 formatter.match({
@@ -1214,7 +1214,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 24900,
+  "duration": 25221,
   "status": "passed"
 });
 formatter.match({
@@ -1227,7 +1227,7 @@ formatter.match({
   "location": "ProdutoSteps.é_feita_uma_reposição_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 26557,
+  "duration": 29655,
   "status": "passed"
 });
 formatter.match({
@@ -1240,7 +1240,7 @@ formatter.match({
   "location": "ProdutoSteps.o_estoque_do_produto_fica(Integer)"
 });
 formatter.result({
-  "duration": 34549,
+  "duration": 37017,
   "status": "passed"
 });
 formatter.match({
@@ -1253,7 +1253,7 @@ formatter.match({
   "location": "ProdutoSteps.a_quantidade_vendida_é(Integer)"
 });
 formatter.result({
-  "duration": 27442,
+  "duration": 32714,
   "status": "passed"
 });
 formatter.match({
@@ -1266,7 +1266,7 @@ formatter.match({
   "location": "ProdutoSteps.e_o_total_das_vendas_do_produto_será_de(Double)"
 });
 formatter.result({
-  "duration": 32744,
+  "duration": 38905,
   "status": "passed"
 });
 formatter.background({
@@ -1303,7 +1303,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 114402,
+  "duration": 139249,
   "status": "passed"
 });
 formatter.scenario({
@@ -1401,7 +1401,7 @@ formatter.match({
   "location": "ProdutoSteps.foi_criado_o_produto_de_número_com_preço_e_estoque(String,Integer,Double,Integer)"
 });
 formatter.result({
-  "duration": 97433,
+  "duration": 118742,
   "status": "passed"
 });
 formatter.match({
@@ -1414,7 +1414,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 39526,
+  "duration": 30201,
   "status": "passed"
 });
 formatter.match({
@@ -1427,7 +1427,7 @@ formatter.match({
   "location": "ProdutoSteps.solicita_a_venda_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 29343,
+  "duration": 34840,
   "status": "passed"
 });
 formatter.match({
@@ -1440,7 +1440,7 @@ formatter.match({
   "location": "ProdutoSteps.é_feita_uma_reposição_de_do_produto(Integer)"
 });
 formatter.result({
-  "duration": 38807,
+  "duration": 31686,
   "status": "passed"
 });
 formatter.match({
@@ -1453,7 +1453,7 @@ formatter.match({
   "location": "ProdutoSteps.o_estoque_do_produto_fica(Integer)"
 });
 formatter.result({
-  "duration": 34865,
+  "duration": 37584,
   "status": "passed"
 });
 formatter.match({
@@ -1466,7 +1466,7 @@ formatter.match({
   "location": "ProdutoSteps.a_quantidade_vendida_é(Integer)"
 });
 formatter.result({
-  "duration": 26166,
+  "duration": 28989,
   "status": "passed"
 });
 formatter.match({
@@ -1479,7 +1479,7 @@ formatter.match({
   "location": "ProdutoSteps.e_o_total_das_vendas_do_produto_será_de(Double)"
 });
 formatter.result({
-  "duration": 30956,
+  "duration": 32985,
   "status": "passed"
 });
 });

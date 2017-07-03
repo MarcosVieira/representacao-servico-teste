@@ -17,7 +17,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8903155,
+              "duration": 6660168,
               "status": "passed"
             },
             "line": 6,
@@ -29,7 +29,7 @@
                   "offset": 21
                 }
               ],
-              "location": "QuitandaSteps.groovy:18"
+              "location": "QuitandaSteps.groovy:16"
             },
             "rows": [
               {
@@ -128,7 +128,7 @@
         "steps": [
           {
             "result": {
-              "duration": 39299237,
+              "duration": 32501347,
               "status": "passed"
             },
             "line": 18,
@@ -140,7 +140,7 @@
                   "offset": 30
                 }
               ],
-              "location": "QuitandaSteps.groovy:25"
+              "location": "QuitandaSteps.groovy:23"
             },
             "keyword": "Then "
           }
@@ -155,7 +155,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1649733,
+              "duration": 1152251,
               "status": "passed"
             },
             "line": 6,
@@ -167,7 +167,7 @@
                   "offset": 21
                 }
               ],
-              "location": "QuitandaSteps.groovy:18"
+              "location": "QuitandaSteps.groovy:16"
             },
             "rows": [
               {
@@ -266,7 +266,7 @@
         "steps": [
           {
             "result": {
-              "duration": 779644,
+              "duration": 847414,
               "status": "passed"
             },
             "line": 21,
@@ -278,13 +278,13 @@
                   "offset": 27
                 }
               ],
-              "location": "QuitandaSteps.groovy:31"
+              "location": "QuitandaSteps.groovy:29"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 5226817,
+              "duration": 6276466,
               "status": "passed"
             },
             "line": 22,
@@ -296,7 +296,7 @@
                   "offset": 26
                 }
               ],
-              "location": "QuitandaSteps.groovy:37"
+              "location": "QuitandaSteps.groovy:35"
             },
             "keyword": "And "
           }
@@ -311,7 +311,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1107277,
+              "duration": 1906893,
               "status": "passed"
             },
             "line": 6,
@@ -323,7 +323,7 @@
                   "offset": 21
                 }
               ],
-              "location": "QuitandaSteps.groovy:18"
+              "location": "QuitandaSteps.groovy:16"
             },
             "rows": [
               {
@@ -422,7 +422,7 @@
         "steps": [
           {
             "result": {
-              "duration": 78982,
+              "duration": 98205,
               "status": "passed"
             },
             "line": 25,
@@ -434,13 +434,13 @@
                   "offset": 51
                 }
               ],
-              "location": "QuitandaSteps.groovy:43"
+              "location": "QuitandaSteps.groovy:41"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 4962302,
+              "duration": 46008111,
               "status": "passed"
             },
             "line": 26,
@@ -452,7 +452,7 @@
                   "offset": 31
                 }
               ],
-              "location": "QuitandaSteps.groovy:49"
+              "location": "QuitandaSteps.groovy:47"
             },
             "keyword": "Then "
           }

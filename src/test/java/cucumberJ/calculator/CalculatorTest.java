@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "classpath:cucumber/features/calculator",
         tags = "@Calculator",
-        glue = "classpath:cucumberG.steps",
+        glue = "classpath:cucumberG.calculator.steps",
         monochrome = true,
         strict = true,
         plugin = {"pretty", "html:target/cucumber/html/calculator", "json:target/cucumber/json/calculator", "junit:target/cucumber/xml/calculator"})

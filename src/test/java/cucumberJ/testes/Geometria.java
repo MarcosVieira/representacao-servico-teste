@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 		features = "classpath:cucumber/features/geometria",
 		tags = "@Geometria",
-		glue = "classpath:cucumberG.steps.geometria",
+		glue = "classpath:cucumberG.geometria.steps",
 		monochrome = true,
 		plugin = {"pretty", "html:target/cucumber/html/geometria", "json:target/cucumber/json/geometria", "junit:target/cucumber/xml/geometria"})
 public class Geometria {

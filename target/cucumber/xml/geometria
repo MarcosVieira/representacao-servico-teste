@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="2" tests="2" time="0.005948">
-<testcase classname="Cálculo de área e perímetro de formas geométricas" name="Cálculo do perímetro do quadrado" time="0.005651">
-<skipped><![CDATA[Given que o quadrado tem lado de 5 "cm".....................................pending
-When é feito cálculo do perímetro...........................................skipped
-Then deve mostrar 20 "cm"...................................................skipped
-]]></skipped>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0.019054">
+<testcase classname="Cálculo de área e perímetro de formas geométricas" name="Cálculo do perímetro do quadrado" time="0.010035">
+<system-out><![CDATA[Given que o quadrado tem lado de 5.1 "cm"...................................passed
+Then o cálculo do perímetro do quadrado deve dar 20.4 "cm"..................passed
+]]></system-out>
 </testcase>
-<testcase classname="Cálculo de área e perímetro de formas geométricas" name="Cálculo da área do quadrado" time="0.000297">
-<skipped><![CDATA[Given que o quadrado tem lado de 5 "cm".....................................pending
-When é feito do cálculo da área.............................................skipped
-Then deve mostrar 25 "cm2"..................................................skipped
-]]></skipped>
+<testcase classname="Cálculo de área e perímetro de formas geométricas" name="Cálculo da área do quadrado" time="0.001818">
+<system-out><![CDATA[Given que o quadrado tem lado de 5 "cm".....................................passed
+Then o cálculo da área do quadrado deve dar 25 "cm2"........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Cálculo de área e perímetro de formas geométricas" name="Cálculo do perímetro do retângulo" time="0.006241">
+<system-out><![CDATA[Given que o retângulo tem um lado de 3 e outro de 4 "cm"....................passed
+Then o cálculo do perímetro do retângulo deve dar 14 "cm"...................passed
+]]></system-out>
+</testcase>
+<testcase classname="Cálculo de área e perímetro de formas geométricas" name="Cálculo da área do retângulo" time="0.00096">
+<system-out><![CDATA[Given que o retângulo tem um lado de 5 e outro de 4 "cm"....................passed
+Then o cálculo da área do retângulo deve dar 20 "cm2".......................passed
+]]></system-out>
 </testcase>
 </testsuite>

@@ -8,7 +8,7 @@ formatter.feature({
   ],
   "line": 3,
   "name": "Division",
-  "description": "In order to avoid silly mistakes\nCashiers must be able to calculate a fraction",
+  "description": "In order to avoid silly mistakes\r\nCashiers must be able to calculate a fraction",
   "id": "division",
   "keyword": "Feature",
   "tags": [
@@ -62,7 +62,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:11"
 });
 formatter.result({
-  "duration": 16391994,
+  "duration": 18450471,
   "status": "passed"
 });
 formatter.match({
@@ -75,7 +75,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:11"
 });
 formatter.result({
-  "duration": 109453,
+  "duration": 113449,
   "status": "passed"
 });
 formatter.match({
@@ -88,7 +88,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:15"
 });
 formatter.result({
-  "duration": 5534302,
+  "duration": 8198475,
   "status": "passed"
 });
 formatter.match({
@@ -101,7 +101,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:19"
 });
 formatter.result({
-  "duration": 509966,
+  "duration": 464980,
   "status": "passed"
 });
 formatter.scenario({
@@ -142,7 +142,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:11"
 });
 formatter.result({
-  "duration": 86381,
+  "duration": 66748,
   "status": "passed"
 });
 formatter.match({
@@ -155,7 +155,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:11"
 });
 formatter.result({
-  "duration": 62911,
+  "duration": 42140,
   "status": "passed"
 });
 formatter.match({
@@ -168,7 +168,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:15"
 });
 formatter.result({
-  "duration": 68096,
+  "duration": 64688,
   "status": "passed"
 });
 formatter.match({
@@ -181,7 +181,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:19"
 });
 formatter.result({
-  "duration": 54811,
+  "duration": 45463,
   "status": "passed"
 });
 });

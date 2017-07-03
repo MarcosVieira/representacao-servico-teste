@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 		features = "classpath:cucumber/features/quitanda",
 		tags = "@Produto",
-		glue = "classpath:cucumberG.steps.quitanda",
+		glue = "classpath:cucumberG.quitanda.steps",
 		monochrome = true,
 		plugin = {"pretty", "html:target/cucumber/html/produtog", "json:target/cucumber/json/produtog", "junit:target/cucumber/xml/produtog"})
 public class ProdutoTestG {

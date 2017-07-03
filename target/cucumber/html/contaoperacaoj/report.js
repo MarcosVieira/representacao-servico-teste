@@ -2,7 +2,7 @@ $(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.
 formatter.feature({
   "line": 2,
   "name": "Testar as operações de saque e depósito em uma conta",
-  "description": "\nO sistema deve prover o saque e depósito na conta de forma correta, seguindo as seguintes restrições:\n1) Só libera o saque, se o valor do saque for menor ou igual ao valor do saldo disponível na conta\n2) Só libera o depósito, se o valor do depósito for menor ou igual ao valor do limite disponível na conta",
+  "description": "\r\nO sistema deve prover o saque e depósito na conta de forma correta, seguindo as seguintes restrições:\r\n1) Só libera o saque, se o valor do saque for menor ou igual ao valor do saldo disponível na conta\r\n2) Só libera o depósito, se o valor do depósito for menor ou igual ao valor do limite disponível na conta",
   "id": "testar-as-operações-de-saque-e-depósito-em-uma-conta",
   "keyword": "Feature",
   "tags": [
@@ -46,7 +46,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
 });
 formatter.result({
-  "duration": 1755784,
+  "duration": 1878452,
   "status": "passed"
 });
 formatter.scenario({
@@ -82,7 +82,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_dono_solicita_um_saque_de(Double)"
 });
 formatter.result({
-  "duration": 66014,
+  "duration": 71156,
   "status": "passed"
 });
 formatter.match({
@@ -95,14 +95,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_saldo_da_conta_fica(Double)"
 });
 formatter.result({
-  "duration": 54362,
+  "duration": 58649,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.o_saque_e_realizado()"
 });
 formatter.result({
-  "duration": 19807,
+  "duration": 21541,
   "status": "passed"
 });
 formatter.background({
@@ -139,7 +139,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
 });
 formatter.result({
-  "duration": 89010,
+  "duration": 94141,
   "status": "passed"
 });
 formatter.scenario({
@@ -175,7 +175,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_dono_solicita_um_saque_de(Double)"
 });
 formatter.result({
-  "duration": 31251,
+  "duration": 31125,
   "status": "passed"
 });
 formatter.match({
@@ -188,14 +188,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_saldo_da_conta_fica(Double)"
 });
 formatter.result({
-  "duration": 33651,
+  "duration": 35241,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.o_saque_e_realizado()"
 });
 formatter.result({
-  "duration": 12068,
+  "duration": 11719,
   "status": "passed"
 });
 formatter.background({
@@ -232,7 +232,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
 });
 formatter.result({
-  "duration": 69544,
+  "duration": 71440,
   "status": "passed"
 });
 formatter.scenario({
@@ -268,7 +268,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_dono_solicita_um_saque_de(Double)"
 });
 formatter.result({
-  "duration": 28104,
+  "duration": 30091,
   "status": "passed"
 });
 formatter.match({
@@ -281,14 +281,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_saldo_da_conta_fica(Double)"
 });
 formatter.result({
-  "duration": 37372,
+  "duration": 43927,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.o_saque_nao_e_realizado()"
 });
 formatter.result({
-  "duration": 21382,
+  "duration": 21580,
   "status": "passed"
 });
 });

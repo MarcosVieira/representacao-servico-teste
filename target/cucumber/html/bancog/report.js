@@ -72,7 +72,7 @@ formatter.match({
   "location": "BancoSteps.groovy:20"
 });
 formatter.result({
-  "duration": 5098542,
+  "duration": 5003373,
   "status": "passed"
 });
 formatter.scenario({
@@ -103,7 +103,7 @@ formatter.match({
   "location": "BancoSteps.groovy:29"
 });
 formatter.result({
-  "duration": 2166834,
+  "duration": 1893735,
   "status": "passed"
 });
 formatter.match({
@@ -116,7 +116,7 @@ formatter.match({
   "location": "BancoSteps.groovy:33"
 });
 formatter.result({
-  "duration": 581294,
+  "duration": 466448,
   "status": "passed"
 });
 formatter.background({
@@ -179,7 +179,7 @@ formatter.match({
   "location": "BancoSteps.groovy:20"
 });
 formatter.result({
-  "duration": 543322,
+  "duration": 475125,
   "status": "passed"
 });
 formatter.scenario({
@@ -204,7 +204,7 @@ formatter.match({
   "location": "BancoSteps.groovy:37"
 });
 formatter.result({
-  "duration": 2545446,
+  "duration": 2451264,
   "status": "passed"
 });
 formatter.match({
@@ -217,7 +217,7 @@ formatter.match({
   "location": "BancoSteps.groovy:42"
 });
 formatter.result({
-  "duration": 236957,
+  "duration": 249127,
   "status": "passed"
 });
 formatter.background({
@@ -280,7 +280,7 @@ formatter.match({
   "location": "BancoSteps.groovy:20"
 });
 formatter.result({
-  "duration": 472098,
+  "duration": 445248,
   "status": "passed"
 });
 formatter.scenario({
@@ -310,7 +310,7 @@ formatter.match({
   "location": "BancoSteps.groovy:46"
 });
 formatter.result({
-  "duration": 2268805,
+  "duration": 1807448,
   "status": "passed"
 });
 formatter.match({
@@ -323,7 +323,7 @@ formatter.match({
   "location": "BancoSteps.groovy:52"
 });
 formatter.result({
-  "duration": 579290,
+  "duration": 486711,
   "status": "passed"
 });
 formatter.match({
@@ -336,7 +336,7 @@ formatter.match({
   "location": "BancoSteps.groovy:56"
 });
 formatter.result({
-  "duration": 174178,
+  "duration": 184978,
   "status": "passed"
 });
 formatter.background({
@@ -399,7 +399,7 @@ formatter.match({
   "location": "BancoSteps.groovy:20"
 });
 formatter.result({
-  "duration": 959159,
+  "duration": 801371,
   "status": "passed"
 });
 formatter.scenario({
@@ -429,7 +429,7 @@ formatter.match({
   "location": "BancoSteps.groovy:60"
 });
 formatter.result({
-  "duration": 1000140,
+  "duration": 721057,
   "status": "passed"
 });
 formatter.match({
@@ -442,7 +442,7 @@ formatter.match({
   "location": "BancoSteps.groovy:66"
 });
 formatter.result({
-  "duration": 235482,
+  "duration": 199194,
   "status": "passed"
 });
 formatter.match({
@@ -455,7 +455,7 @@ formatter.match({
   "location": "BancoSteps.groovy:70"
 });
 formatter.result({
-  "duration": 152197,
+  "duration": 167336,
   "status": "passed"
 });
 formatter.background({
@@ -518,7 +518,7 @@ formatter.match({
   "location": "BancoSteps.groovy:20"
 });
 formatter.result({
-  "duration": 470205,
+  "duration": 726739,
   "status": "passed"
 });
 formatter.scenario({
@@ -549,7 +549,7 @@ formatter.match({
   "location": "BancoSteps.groovy:74"
 });
 formatter.result({
-  "duration": 768120,
+  "duration": 803034,
   "status": "passed"
 });
 formatter.match({
@@ -562,7 +562,7 @@ formatter.match({
   "location": "BancoSteps.groovy:78"
 });
 formatter.result({
-  "duration": 1156984,
+  "duration": 1046385,
   "status": "passed"
 });
 });

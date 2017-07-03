@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4229474,
+              "duration": 4248100,
               "status": "passed"
             },
             "line": 9,
@@ -51,7 +51,7 @@
         "steps": [
           {
             "result": {
-              "duration": 102014,
+              "duration": 124714,
               "status": "passed"
             },
             "line": 12,
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 224022,
+              "duration": 250653,
               "status": "passed"
             },
             "line": 13,
@@ -87,7 +87,7 @@
           },
           {
             "result": {
-              "duration": 128203,
+              "duration": 109567,
               "status": "passed"
             },
             "line": 14,
@@ -108,7 +108,7 @@
         "steps": [
           {
             "result": {
-              "duration": 159517,
+              "duration": 167640,
               "status": "passed"
             },
             "line": 9,
@@ -148,7 +148,7 @@
         "steps": [
           {
             "result": {
-              "duration": 66398,
+              "duration": 49227,
               "status": "passed"
             },
             "line": 17,
@@ -166,7 +166,7 @@
           },
           {
             "result": {
-              "duration": 69599,
+              "duration": 53605,
               "status": "passed"
             },
             "line": 18,
@@ -184,7 +184,7 @@
           },
           {
             "result": {
-              "duration": 26739,
+              "duration": 19113,
               "status": "passed"
             },
             "line": 19,
@@ -205,7 +205,7 @@
         "steps": [
           {
             "result": {
-              "duration": 102960,
+              "duration": 99143,
               "status": "passed"
             },
             "line": 9,
@@ -245,7 +245,7 @@
         "steps": [
           {
             "result": {
-              "duration": 38618,
+              "duration": 42427,
               "status": "passed"
             },
             "line": 22,
@@ -263,7 +263,7 @@
           },
           {
             "result": {
-              "duration": 56349,
+              "duration": 58139,
               "status": "passed"
             },
             "line": 23,
@@ -281,7 +281,7 @@
           },
           {
             "result": {
-              "duration": 93126,
+              "duration": 78381,
               "status": "passed"
             },
             "line": 24,
@@ -295,7 +295,7 @@
       }
     ],
     "name": "Testar as operações de saque e depósito em uma conta",
-    "description": "\nO sistema deve prover o saque e depósito na conta de forma correta, seguindo as seguintes restrições:\n1) Só libera o saque, se o valor do saque for menor ou igual ao valor do saldo disponível na conta\n2) Só libera o depósito, se o valor do depósito for menor ou igual ao valor do limite disponível na conta",
+    "description": "\r\nO sistema deve prover o saque e depósito na conta de forma correta, seguindo as seguintes restrições:\r\n1) Só libera o saque, se o valor do saque for menor ou igual ao valor do saldo disponível na conta\r\n2) Só libera o depósito, se o valor do depósito for menor ou igual ao valor do limite disponível na conta",
     "id": "testar-as-operações-de-saque-e-depósito-em-uma-conta",
     "keyword": "Feature",
     "uri": "cucumber/features/banco/ContaOperacao.feature",
