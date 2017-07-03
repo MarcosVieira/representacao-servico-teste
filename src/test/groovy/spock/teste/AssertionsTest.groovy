@@ -1,4 +1,4 @@
-package spock.testes
+package spock.teste
 
 import spock.lang.Narrative
 import spock.lang.Specification
