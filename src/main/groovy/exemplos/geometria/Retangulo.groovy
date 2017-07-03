@@ -6,13 +6,12 @@ import groovy.transform.builder.ExternalStrategy
 /**
  * Created by MarcosHumberto on 29/06/2017.
  */
-class Retangulo {
-    Double lado1
-
+class Retangulo implements Figura {
+    Double lado1, lado2
     String medida
 
     Double perimetro() {
-        4 * lado
+        (lado1 + lado2) * 2
     }
 
     String medidaPerimetro() {
@@ -20,10 +19,10 @@ class Retangulo {
     }
 
     Double area() {
-        lado * lado
+        lado1 * lado2
     }
 
-    String medidaArea() {
+    def medidaArea() {
         medida + '2'
     }
 

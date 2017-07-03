@@ -7,7 +7,7 @@ import groovy.transform.builder.ExternalStrategy
 /**
  * Created by MarcosHumberto on 29/06/2017.
  */
-class Quadrado {
+class Quadrado implements Figura {
     Double lado
     String medida
 
