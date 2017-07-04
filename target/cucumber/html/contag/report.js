@@ -172,10 +172,10 @@ formatter.match({
       "offset": 74
     }
   ],
-  "location": "ContaSteps.groovy:17"
+  "location": "ContaSteps.groovy:13"
 });
 formatter.result({
-  "duration": 4023189,
+  "duration": 2580588,
   "status": "passed"
 });
 formatter.match({
@@ -185,10 +185,10 @@ formatter.match({
       "offset": 39
     }
   ],
-  "location": "ContaSteps.groovy:29"
+  "location": "ContaSteps.groovy:25"
 });
 formatter.result({
-  "duration": 679837,
+  "duration": 846511,
   "status": "passed"
 });
 formatter.match({
@@ -198,10 +198,10 @@ formatter.match({
       "offset": 36
     }
   ],
-  "location": "ContaSteps.groovy:35"
+  "location": "ContaSteps.groovy:31"
 });
 formatter.result({
-  "duration": 628110,
+  "duration": 692563,
   "status": "passed"
 });
 formatter.match({
@@ -211,10 +211,10 @@ formatter.match({
       "offset": 36
     }
   ],
-  "location": "ContaSteps.groovy:35"
+  "location": "ContaSteps.groovy:31"
 });
 formatter.result({
-  "duration": 145328,
+  "duration": 157643,
   "status": "passed"
 });
 formatter.match({
@@ -224,10 +224,10 @@ formatter.match({
       "offset": 38
     }
   ],
-  "location": "ContaSteps.groovy:41"
+  "location": "ContaSteps.groovy:37"
 });
 formatter.result({
-  "duration": 441730,
+  "duration": 524246,
   "status": "passed"
 });
 formatter.scenario({
@@ -306,10 +306,10 @@ formatter.match({
       "offset": 73
     }
   ],
-  "location": "ContaSteps.groovy:17"
+  "location": "ContaSteps.groovy:13"
 });
 formatter.result({
-  "duration": 250833,
+  "duration": 548878,
   "status": "passed"
 });
 formatter.match({
@@ -319,10 +319,10 @@ formatter.match({
       "offset": 39
     }
   ],
-  "location": "ContaSteps.groovy:29"
+  "location": "ContaSteps.groovy:25"
 });
 formatter.result({
-  "duration": 131369,
+  "duration": 169549,
   "status": "passed"
 });
 formatter.match({
@@ -332,10 +332,10 @@ formatter.match({
       "offset": 36
     }
   ],
-  "location": "ContaSteps.groovy:35"
+  "location": "ContaSteps.groovy:31"
 });
 formatter.result({
-  "duration": 119875,
+  "duration": 1101451,
   "status": "passed"
 });
 formatter.match({
@@ -345,10 +345,10 @@ formatter.match({
       "offset": 36
     }
   ],
-  "location": "ContaSteps.groovy:35"
+  "location": "ContaSteps.groovy:31"
 });
 formatter.result({
-  "duration": 128495,
+  "duration": 381382,
   "status": "passed"
 });
 formatter.match({
@@ -358,10 +358,10 @@ formatter.match({
       "offset": 38
     }
   ],
-  "location": "ContaSteps.groovy:41"
+  "location": "ContaSteps.groovy:37"
 });
 formatter.result({
-  "duration": 139169,
+  "duration": 165444,
   "status": "passed"
 });
 });

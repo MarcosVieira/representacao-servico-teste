@@ -1,9 +1,9 @@
 package cucumberG.banco.steps
 
 import cucumber.api.DataTable
-import cucumber.banco.Banco
-import cucumber.banco.BancoBuilder
-import cucumber.banco.Conta
+import exemplos.banco.Banco
+import exemplos.banco.BancoBuilder
+import exemplos.banco.Conta
 import org.apache.commons.lang3.StringUtils
 
 import static org.assertj.core.api.Assertions.assertThat

@@ -52,7 +52,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 25216359,
+  "duration": 24624375,
   "status": "passed"
 });
 formatter.scenario({
@@ -93,14 +93,14 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 1195461,
+  "duration": 1180272,
   "status": "passed"
 });
 formatter.match({
   "location": "ProdutoSteps.groovy:37"
 });
 formatter.result({
-  "duration": 311592,
+  "duration": 204444,
   "status": "passed"
 });
 formatter.match({
@@ -113,7 +113,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:45"
 });
 formatter.result({
-  "duration": 994302,
+  "duration": 858827,
   "status": "passed"
 });
 formatter.match({
@@ -126,7 +126,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:51"
 });
 formatter.result({
-  "duration": 831322,
+  "duration": 958996,
   "status": "passed"
 });
 formatter.background({
@@ -163,7 +163,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 396571,
+  "duration": 379329,
   "status": "passed"
 });
 formatter.scenario({
@@ -204,14 +204,14 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 148202,
+  "duration": 139170,
   "status": "passed"
 });
 formatter.match({
   "location": "ProdutoSteps.groovy:41"
 });
 formatter.result({
-  "duration": 287781,
+  "duration": 293939,
   "status": "passed"
 });
 formatter.match({
@@ -224,7 +224,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:45"
 });
 formatter.result({
-  "duration": 177759,
+  "duration": 165032,
   "status": "passed"
 });
 formatter.match({
@@ -237,7 +237,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:51"
 });
 formatter.result({
-  "duration": 128085,
+  "duration": 258634,
   "status": "passed"
 });
 formatter.background({
@@ -274,7 +274,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 309950,
+  "duration": 294350,
   "status": "passed"
 });
 formatter.scenario({
@@ -320,7 +320,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 163801,
+  "duration": 166265,
   "status": "passed"
 });
 formatter.match({
@@ -333,14 +333,14 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 119054,
+  "duration": 123569,
   "status": "passed"
 });
 formatter.match({
   "location": "ProdutoSteps.groovy:37"
 });
 formatter.result({
-  "duration": 59937,
+  "duration": 81695,
   "status": "passed"
 });
 formatter.match({
@@ -353,7 +353,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:45"
 });
 formatter.result({
-  "duration": 138349,
+  "duration": 289013,
   "status": "passed"
 });
 formatter.match({
@@ -366,7 +366,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:51"
 });
 formatter.result({
-  "duration": 128906,
+  "duration": 350181,
   "status": "passed"
 });
 formatter.background({
@@ -403,7 +403,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 322265,
+  "duration": 297634,
   "status": "passed"
 });
 formatter.scenario({
@@ -449,7 +449,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 130548,
+  "duration": 126443,
   "status": "passed"
 });
 formatter.match({
@@ -462,14 +462,14 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 111664,
+  "duration": 183507,
   "status": "passed"
 });
 formatter.match({
   "location": "ProdutoSteps.groovy:41"
 });
 formatter.result({
-  "duration": 71432,
+  "duration": 208959,
   "status": "passed"
 });
 formatter.match({
@@ -482,7 +482,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:45"
 });
 formatter.result({
-  "duration": 138348,
+  "duration": 148201,
   "status": "passed"
 });
 formatter.match({
@@ -495,7 +495,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:51"
 });
 formatter.result({
-  "duration": 166264,
+  "duration": 132190,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -664,7 +664,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 286139,
+  "duration": 905217,
   "status": "passed"
 });
 formatter.scenario({
@@ -762,7 +762,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 312413,
+  "duration": 335402,
   "status": "passed"
 });
 formatter.match({
@@ -775,7 +775,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 157233,
+  "duration": 139580,
   "status": "passed"
 });
 formatter.match({
@@ -788,7 +788,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 134654,
+  "duration": 216759,
   "status": "passed"
 });
 formatter.match({
@@ -801,7 +801,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:31"
 });
 formatter.result({
-  "duration": 1158104,
+  "duration": 1537843,
   "status": "passed"
 });
 formatter.match({
@@ -814,7 +814,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:45"
 });
 formatter.result({
-  "duration": 138759,
+  "duration": 20308480,
   "status": "passed"
 });
 formatter.match({
@@ -827,7 +827,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:51"
 });
 formatter.result({
-  "duration": 124801,
+  "duration": 213475,
   "status": "passed"
 });
 formatter.match({
@@ -840,7 +840,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:57"
 });
 formatter.result({
-  "duration": 1130598,
+  "duration": 15800046,
   "status": "passed"
 });
 formatter.background({
@@ -877,7 +877,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 305434,
+  "duration": 287370,
   "status": "passed"
 });
 formatter.scenario({
@@ -975,7 +975,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 300918,
+  "duration": 353055,
   "status": "passed"
 });
 formatter.match({
@@ -988,7 +988,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 110432,
+  "duration": 113306,
   "status": "passed"
 });
 formatter.match({
@@ -1001,7 +1001,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 94421,
+  "duration": 133832,
   "status": "passed"
 });
 formatter.match({
@@ -1014,7 +1014,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:31"
 });
 formatter.result({
-  "duration": 136706,
+  "duration": 153128,
   "status": "passed"
 });
 formatter.match({
@@ -1027,7 +1027,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:45"
 });
 formatter.result({
-  "duration": 112895,
+  "duration": 131780,
   "status": "passed"
 });
 formatter.match({
@@ -1040,7 +1040,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:51"
 });
 formatter.result({
-  "duration": 110432,
+  "duration": 197055,
   "status": "passed"
 });
 formatter.match({
@@ -1053,7 +1053,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:57"
 });
 formatter.result({
-  "duration": 190075,
+  "duration": 502488,
   "status": "passed"
 });
 formatter.background({
@@ -1090,7 +1090,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 266844,
+  "duration": 677784,
   "status": "passed"
 });
 formatter.scenario({
@@ -1188,7 +1188,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 362908,
+  "duration": 286139,
   "status": "passed"
 });
 formatter.match({
@@ -1201,7 +1201,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 125622,
+  "duration": 242623,
   "status": "passed"
 });
 formatter.match({
@@ -1214,7 +1214,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 107149,
+  "duration": 112896,
   "status": "passed"
 });
 formatter.match({
@@ -1227,7 +1227,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:31"
 });
 formatter.result({
-  "duration": 107969,
+  "duration": 100169,
   "status": "passed"
 });
 formatter.match({
@@ -1240,7 +1240,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:45"
 });
 formatter.result({
-  "duration": 119464,
+  "duration": 630163,
   "status": "passed"
 });
 formatter.match({
@@ -1253,7 +1253,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:51"
 });
 formatter.result({
-  "duration": 120286,
+  "duration": 1063272,
   "status": "passed"
 });
 formatter.match({
@@ -1266,7 +1266,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:57"
 });
 formatter.result({
-  "duration": 126443,
+  "duration": 166264,
   "status": "passed"
 });
 formatter.background({
@@ -1303,7 +1303,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 305434,
+  "duration": 376456,
   "status": "passed"
 });
 formatter.scenario({
@@ -1401,7 +1401,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 407246,
+  "duration": 575973,
   "status": "passed"
 });
 formatter.match({
@@ -1414,7 +1414,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 135886,
+  "duration": 272181,
   "status": "passed"
 });
 formatter.match({
@@ -1427,7 +1427,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:25"
 });
 formatter.result({
-  "duration": 103453,
+  "duration": 135885,
   "status": "passed"
 });
 formatter.match({
@@ -1440,7 +1440,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:31"
 });
 formatter.result({
-  "duration": 91548,
+  "duration": 152717,
   "status": "passed"
 });
 formatter.match({
@@ -1453,7 +1453,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:45"
 });
 formatter.result({
-  "duration": 126444,
+  "duration": 354697,
   "status": "passed"
 });
 formatter.match({
@@ -1466,7 +1466,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:51"
 });
 formatter.result({
-  "duration": 115359,
+  "duration": 117822,
   "status": "passed"
 });
 formatter.match({
@@ -1479,7 +1479,7 @@ formatter.match({
   "location": "ProdutoSteps.groovy:57"
 });
 formatter.result({
-  "duration": 228665,
+  "duration": 129727,
   "status": "passed"
 });
 });

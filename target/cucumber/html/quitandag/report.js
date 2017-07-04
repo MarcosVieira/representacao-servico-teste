@@ -123,7 +123,7 @@ formatter.match({
   "location": "QuitandaSteps.groovy:16"
 });
 formatter.result({
-  "duration": 39412466,
+  "duration": 29045778,
   "status": "passed"
 });
 formatter.scenario({
@@ -149,7 +149,7 @@ formatter.match({
   "location": "QuitandaSteps.groovy:23"
 });
 formatter.result({
-  "duration": 1295631,
+  "duration": 929849,
   "status": "passed"
 });
 formatter.background({
@@ -257,7 +257,7 @@ formatter.match({
   "location": "QuitandaSteps.groovy:16"
 });
 formatter.result({
-  "duration": 2913116,
+  "duration": 1750908,
   "status": "passed"
 });
 formatter.scenario({
@@ -288,7 +288,7 @@ formatter.match({
   "location": "QuitandaSteps.groovy:29"
 });
 formatter.result({
-  "duration": 27665168,
+  "duration": 16683505,
   "status": "passed"
 });
 formatter.match({
@@ -301,7 +301,7 @@ formatter.match({
   "location": "QuitandaSteps.groovy:35"
 });
 formatter.result({
-  "duration": 26381031,
+  "duration": 37556053,
   "status": "passed"
 });
 formatter.background({
@@ -409,7 +409,7 @@ formatter.match({
   "location": "QuitandaSteps.groovy:16"
 });
 formatter.result({
-  "duration": 3106476,
+  "duration": 2280081,
   "status": "passed"
 });
 formatter.scenario({
@@ -440,7 +440,7 @@ formatter.match({
   "location": "QuitandaSteps.groovy:41"
 });
 formatter.result({
-  "duration": 115769,
+  "duration": 153949,
   "status": "passed"
 });
 formatter.match({
@@ -453,7 +453,7 @@ formatter.match({
   "location": "QuitandaSteps.groovy:47"
 });
 formatter.result({
-  "duration": 84685241,
+  "duration": 74469216,
   "status": "passed"
 });
 });

@@ -56,7 +56,7 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 4276896,
+  "duration": 28390983,
   "status": "passed"
 });
 formatter.match({
@@ -69,14 +69,14 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 74716,
+  "duration": 63632,
   "status": "passed"
 });
 formatter.match({
   "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_divisao()"
 });
 formatter.result({
-  "duration": 84158,
+  "duration": 80464,
   "status": "passed"
 });
 formatter.match({
@@ -89,7 +89,7 @@ formatter.match({
   "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
 });
 formatter.result({
-  "duration": 138348,
+  "duration": 85800,
   "status": "passed"
 });
 formatter.scenario({
@@ -130,7 +130,7 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 123159,
+  "duration": 78000,
   "status": "passed"
 });
 formatter.match({
@@ -143,14 +143,14 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 70611,
+  "duration": 38590,
   "status": "passed"
 });
 formatter.match({
   "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_divisao()"
 });
 formatter.result({
-  "duration": 22990,
+  "duration": 12727,
   "status": "passed"
 });
 formatter.match({
@@ -163,7 +163,7 @@ formatter.match({
   "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
 });
 formatter.result({
-  "duration": 88674,
+  "duration": 85390,
   "status": "passed"
 });
 formatter.uri("cucumber/features/calculadora/Multiplicacao.feature");
@@ -224,7 +224,7 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 91958,
+  "duration": 303381,
   "status": "passed"
 });
 formatter.match({
@@ -237,14 +237,14 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 69790,
+  "duration": 90316,
   "status": "passed"
 });
 formatter.match({
   "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_multiplicacao()"
 });
 formatter.result({
-  "duration": 53780,
+  "duration": 67327,
   "status": "passed"
 });
 formatter.match({
@@ -257,7 +257,7 @@ formatter.match({
   "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
 });
 formatter.result({
-  "duration": 91138,
+  "duration": 110432,
   "status": "passed"
 });
 formatter.scenario({
@@ -298,7 +298,7 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 94833,
+  "duration": 95653,
   "status": "passed"
 });
 formatter.match({
@@ -311,14 +311,14 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 74716,
+  "duration": 75948,
   "status": "passed"
 });
 formatter.match({
   "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_multiplicacao()"
 });
 formatter.result({
-  "duration": 33663,
+  "duration": 40232,
   "status": "passed"
 });
 formatter.match({
@@ -331,7 +331,7 @@ formatter.match({
   "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
 });
 formatter.result({
-  "duration": 94833,
+  "duration": 129728,
   "status": "passed"
 });
 formatter.scenario({
@@ -372,7 +372,7 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 95242,
+  "duration": 112896,
   "status": "passed"
 });
 formatter.match({
@@ -385,14 +385,14 @@ formatter.match({
   "location": "CalculadoraSteps.que_foi_informado_para_a_calculadora(String)"
 });
 formatter.result({
-  "duration": 87443,
+  "duration": 124390,
   "status": "passed"
 });
 formatter.match({
   "location": "CalculadoraSteps.eu_peco_para_ser_feita_a_multiplicacao()"
 });
 formatter.result({
-  "duration": 30380,
+  "duration": 46390,
   "status": "passed"
 });
 formatter.match({
@@ -405,7 +405,7 @@ formatter.match({
   "location": "CalculadoraSteps.o_resultado_calculado_devera_ser(String)"
 });
 formatter.result({
-  "duration": 89906,
+  "duration": 108380,
   "status": "passed"
 });
 formatter.uri("cucumber/features/calculadora/OperacoesBasicas.feature");
@@ -461,14 +461,14 @@ formatter.match({
   "location": "OperacoesBasicasSteps.que_foi_informado(String)"
 });
 formatter.result({
-  "duration": 123570,
+  "duration": 201159,
   "status": "passed"
 });
 formatter.match({
   "location": "OperacoesBasicasSteps.for_executada_a_operacao()"
 });
 formatter.result({
-  "duration": 76094502,
+  "duration": 143304737,
   "status": "passed"
 });
 formatter.match({
@@ -481,7 +481,7 @@ formatter.match({
   "location": "OperacoesBasicasSteps.o_resultado_devera_ser(String)"
 });
 formatter.result({
-  "duration": 136707,
+  "duration": 116180,
   "status": "passed"
 });
 formatter.scenario({
@@ -517,14 +517,14 @@ formatter.match({
   "location": "OperacoesBasicasSteps.que_foi_informado(String)"
 });
 formatter.result({
-  "duration": 97295,
+  "duration": 110843,
   "status": "passed"
 });
 formatter.match({
   "location": "OperacoesBasicasSteps.for_executada_a_operacao()"
 });
 formatter.result({
-  "duration": 12318346,
+  "duration": 21562647,
   "status": "passed"
 });
 formatter.match({
@@ -537,7 +537,7 @@ formatter.match({
   "location": "OperacoesBasicasSteps.o_resultado_devera_ser(String)"
 });
 formatter.result({
-  "duration": 73074,
+  "duration": 68969,
   "status": "passed"
 });
 formatter.scenario({
@@ -572,7 +572,7 @@ formatter.match({
   "location": "OperacoesBasicasSteps.euSubtraioDe(Double,Double)"
 });
 formatter.result({
-  "duration": 132191,
+  "duration": 144095,
   "status": "passed"
 });
 formatter.match({
@@ -585,7 +585,7 @@ formatter.match({
   "location": "OperacoesBasicasSteps.oResultadoE(double)"
 });
 formatter.result({
-  "duration": 148201,
+  "duration": 153127,
   "status": "passed"
 });
 });

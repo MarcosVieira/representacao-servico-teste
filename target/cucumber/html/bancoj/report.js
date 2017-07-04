@@ -72,7 +72,7 @@ formatter.match({
   "location": "BancoSteps.que_as_contas_sao_do(String,Conta\u003e)"
 });
 formatter.result({
-  "duration": 8353864,
+  "duration": 3772355,
   "status": "passed"
 });
 formatter.scenario({
@@ -103,7 +103,7 @@ formatter.match({
   "location": "BancoSteps.no_banco(String)"
 });
 formatter.result({
-  "duration": 112485,
+  "duration": 84980,
   "status": "passed"
 });
 formatter.match({
@@ -116,7 +116,7 @@ formatter.match({
   "location": "BancoSteps.a_quantidade_de_contas_e(int)"
 });
 formatter.result({
-  "duration": 550520,
+  "duration": 176117,
   "status": "passed"
 });
 formatter.background({
@@ -179,7 +179,7 @@ formatter.match({
   "location": "BancoSteps.que_as_contas_sao_do(String,Conta\u003e)"
 });
 formatter.result({
-  "duration": 1231178,
+  "duration": 1254989,
   "status": "passed"
 });
 formatter.scenario({
@@ -204,7 +204,7 @@ formatter.match({
   "location": "BancoSteps.o_calculo_do_total_de_dinheiro()"
 });
 formatter.result({
-  "duration": 107559,
+  "duration": 115769,
   "status": "passed"
 });
 formatter.match({
@@ -217,7 +217,7 @@ formatter.match({
   "location": "BancoSteps.o_total_de_dinheiro_no_banco_e(Double)"
 });
 formatter.result({
-  "duration": 145738,
+  "duration": 146969,
   "status": "passed"
 });
 formatter.background({
@@ -280,7 +280,7 @@ formatter.match({
   "location": "BancoSteps.que_as_contas_sao_do(String,Conta\u003e)"
 });
 formatter.result({
-  "duration": 2982085,
+  "duration": 838301,
   "status": "passed"
 });
 formatter.scenario({
@@ -310,7 +310,7 @@ formatter.match({
   "location": "BancoSteps.o_calculo_do_cliente_com_maior_saldo()"
 });
 formatter.result({
-  "duration": 48442,
+  "duration": 47622,
   "status": "passed"
 });
 formatter.match({
@@ -323,7 +323,7 @@ formatter.match({
   "location": "BancoSteps.o_nome_do_cliente_com_maior_saldo_e(String)"
 });
 formatter.result({
-  "duration": 91959,
+  "duration": 235233,
   "status": "passed"
 });
 formatter.match({
@@ -336,7 +336,7 @@ formatter.match({
   "location": "BancoSteps.o_saldo_da_conta_com_maior_saldo_e(Double)"
 });
 formatter.result({
-  "duration": 112486,
+  "duration": 172012,
   "status": "passed"
 });
 formatter.background({
@@ -399,7 +399,7 @@ formatter.match({
   "location": "BancoSteps.que_as_contas_sao_do(String,Conta\u003e)"
 });
 formatter.result({
-  "duration": 1117050,
+  "duration": 2178679,
   "status": "passed"
 });
 formatter.scenario({
@@ -429,7 +429,7 @@ formatter.match({
   "location": "BancoSteps.o_calculo_do_cliente_com_menor_saldo()"
 });
 formatter.result({
-  "duration": 46800,
+  "duration": 50906,
   "status": "passed"
 });
 formatter.match({
@@ -442,7 +442,7 @@ formatter.match({
   "location": "BancoSteps.o_nome_do_cliente_com_menor_saldo_e(String)"
 });
 formatter.result({
-  "duration": 139580,
+  "duration": 92780,
   "status": "passed"
 });
 formatter.match({
@@ -455,7 +455,7 @@ formatter.match({
   "location": "BancoSteps.o_saldo_da_conta_com_menor_saldo_e(Double)"
 });
 formatter.result({
-  "duration": 137938,
+  "duration": 219223,
   "status": "passed"
 });
 formatter.background({
@@ -518,7 +518,7 @@ formatter.match({
   "location": "BancoSteps.que_as_contas_sao_do(String,Conta\u003e)"
 });
 formatter.result({
-  "duration": 981165,
+  "duration": 1133882,
   "status": "passed"
 });
 formatter.scenario({
@@ -549,7 +549,7 @@ formatter.match({
   "location": "BancoSteps.o_calculo_das_contas_com_saldo_igual_ou_acima_de(Double)"
 });
 formatter.result({
-  "duration": 129728,
+  "duration": 124801,
   "status": "passed"
 });
 formatter.match({
@@ -562,7 +562,7 @@ formatter.match({
   "location": "BancoSteps.a_relacao_das_contas_e(String)"
 });
 formatter.result({
-  "duration": 195822,
+  "duration": 175296,
   "status": "passed"
 });
 });

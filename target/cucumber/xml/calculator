@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.005094">
-<testcase classname="Division" name="Regular numbers" time="0.004628">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.006529">
+<testcase classname="Division" name="Regular numbers" time="0.005688">
 <system-out><![CDATA[Given I have entered 3 into the calculator..................................passed
 And I have entered 2 into the calculator....................................passed
 When I press divide.........................................................passed
 Then the stored result should be 1.5........................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Division" name="More numbers" time="0.000466">
+<testcase classname="Division" name="More numbers" time="0.000841">
 <system-out><![CDATA[Given I have entered 6 into the calculator..................................passed
 And I have entered 3 into the calculator....................................passed
 When I press divide.........................................................passed

@@ -1,11 +1,7 @@
 package cucumberG.banco.steps
 
-import cucumber.api.DataTable
-import cucumber.api.PendingException
-import cucumber.banco.Banco
-import cucumber.banco.Conta
-import cucumber.banco.ContaBuilder
-import org.apache.commons.lang3.StringUtils
+import exemplos.banco.Conta
+import exemplos.banco.ContaBuilder
 
 import static org.assertj.core.api.Assertions.assertThat
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="3.535458">
-<testcase classname="Get book by ISBN" name="User calls web service to get a book by its ISBN" time="3.535458">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.510399">
+<testcase classname="Get book by ISBN" name="User calls web service to get a book by its ISBN" time="24.510399">
 <system-out><![CDATA[Given a book exists with an isbn of 9781451648546...........................passed
 When a user retrieves the book by isbn......................................passed
 Then the status code is 200.................................................passed

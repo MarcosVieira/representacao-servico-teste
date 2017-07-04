@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4023189,
+              "duration": 2580588,
               "status": "passed"
             },
             "line": 5,
@@ -36,7 +36,7 @@
                   "offset": 74
                 }
               ],
-              "location": "ContaSteps.groovy:17"
+              "location": "ContaSteps.groovy:13"
             },
             "matchedColumns": [
               0,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 679837,
+              "duration": 846511,
               "status": "passed"
             },
             "line": 6,
@@ -60,7 +60,7 @@
                   "offset": 39
                 }
               ],
-              "location": "ContaSteps.groovy:29"
+              "location": "ContaSteps.groovy:25"
             },
             "matchedColumns": [
               4
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 628110,
+              "duration": 692563,
               "status": "passed"
             },
             "line": 7,
@@ -81,7 +81,7 @@
                   "offset": 36
                 }
               ],
-              "location": "ContaSteps.groovy:35"
+              "location": "ContaSteps.groovy:31"
             },
             "matchedColumns": [
               5
@@ -90,7 +90,7 @@
           },
           {
             "result": {
-              "duration": 145328,
+              "duration": 157643,
               "status": "passed"
             },
             "line": 8,
@@ -102,7 +102,7 @@
                   "offset": 36
                 }
               ],
-              "location": "ContaSteps.groovy:35"
+              "location": "ContaSteps.groovy:31"
             },
             "matchedColumns": [
               6
@@ -111,7 +111,7 @@
           },
           {
             "result": {
-              "duration": 441730,
+              "duration": 524246,
               "status": "passed"
             },
             "line": 9,
@@ -123,7 +123,7 @@
                   "offset": 38
                 }
               ],
-              "location": "ContaSteps.groovy:41"
+              "location": "ContaSteps.groovy:37"
             },
             "matchedColumns": [
               7
@@ -148,7 +148,7 @@
         "steps": [
           {
             "result": {
-              "duration": 250833,
+              "duration": 548878,
               "status": "passed"
             },
             "line": 5,
@@ -172,7 +172,7 @@
                   "offset": 73
                 }
               ],
-              "location": "ContaSteps.groovy:17"
+              "location": "ContaSteps.groovy:13"
             },
             "matchedColumns": [
               0,
@@ -184,7 +184,7 @@
           },
           {
             "result": {
-              "duration": 131369,
+              "duration": 169549,
               "status": "passed"
             },
             "line": 6,
@@ -196,7 +196,7 @@
                   "offset": 39
                 }
               ],
-              "location": "ContaSteps.groovy:29"
+              "location": "ContaSteps.groovy:25"
             },
             "matchedColumns": [
               4
@@ -205,7 +205,7 @@
           },
           {
             "result": {
-              "duration": 119875,
+              "duration": 1101451,
               "status": "passed"
             },
             "line": 7,
@@ -217,7 +217,7 @@
                   "offset": 36
                 }
               ],
-              "location": "ContaSteps.groovy:35"
+              "location": "ContaSteps.groovy:31"
             },
             "matchedColumns": [
               5
@@ -226,7 +226,7 @@
           },
           {
             "result": {
-              "duration": 128495,
+              "duration": 381382,
               "status": "passed"
             },
             "line": 8,
@@ -238,7 +238,7 @@
                   "offset": 36
                 }
               ],
-              "location": "ContaSteps.groovy:35"
+              "location": "ContaSteps.groovy:31"
             },
             "matchedColumns": [
               6
@@ -247,7 +247,7 @@
           },
           {
             "result": {
-              "duration": 139169,
+              "duration": 165444,
               "status": "passed"
             },
             "line": 9,
@@ -259,7 +259,7 @@
                   "offset": 38
                 }
               ],
-              "location": "ContaSteps.groovy:41"
+              "location": "ContaSteps.groovy:37"
             },
             "matchedColumns": [
               7

@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 11198012,
+              "duration": 24135436,
               "status": "passed"
             },
             "line": 9,
@@ -35,7 +35,7 @@
                   "offset": 64
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:18"
+              "location": "ContaOperacaoSteps.groovy:14"
             },
             "keyword": "Given "
           }
@@ -51,7 +51,7 @@
         "steps": [
           {
             "result": {
-              "duration": 222507,
+              "duration": 162569,
               "status": "passed"
             },
             "line": 12,
@@ -63,13 +63,13 @@
                   "offset": 21
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:30"
+              "location": "ContaOperacaoSteps.groovy:26"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 403550,
+              "duration": 285728,
               "status": "passed"
             },
             "line": 13,
@@ -81,19 +81,19 @@
                   "offset": 22
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:36"
+              "location": "ContaOperacaoSteps.groovy:32"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 12069976,
+              "duration": 8399432,
               "status": "passed"
             },
             "line": 14,
             "name": "o saque é realizado",
             "match": {
-              "location": "ContaOperacaoSteps.groovy:42"
+              "location": "ContaOperacaoSteps.groovy:38"
             },
             "keyword": "And "
           }
@@ -108,7 +108,7 @@
         "steps": [
           {
             "result": {
-              "duration": 525068,
+              "duration": 312413,
               "status": "passed"
             },
             "line": 9,
@@ -132,7 +132,7 @@
                   "offset": 64
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:18"
+              "location": "ContaOperacaoSteps.groovy:14"
             },
             "keyword": "Given "
           }
@@ -148,7 +148,7 @@
         "steps": [
           {
             "result": {
-              "duration": 154770,
+              "duration": 102632,
               "status": "passed"
             },
             "line": 17,
@@ -160,13 +160,13 @@
                   "offset": 21
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:30"
+              "location": "ContaOperacaoSteps.groovy:26"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 136296,
+              "duration": 294350,
               "status": "passed"
             },
             "line": 18,
@@ -178,19 +178,19 @@
                   "offset": 22
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:36"
+              "location": "ContaOperacaoSteps.groovy:32"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 107559,
+              "duration": 117822,
               "status": "passed"
             },
             "line": 19,
             "name": "o saque é realizado",
             "match": {
-              "location": "ContaOperacaoSteps.groovy:42"
+              "location": "ContaOperacaoSteps.groovy:38"
             },
             "keyword": "And "
           }
@@ -205,7 +205,7 @@
         "steps": [
           {
             "result": {
-              "duration": 253707,
+              "duration": 602247,
               "status": "passed"
             },
             "line": 9,
@@ -229,7 +229,7 @@
                   "offset": 64
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:18"
+              "location": "ContaOperacaoSteps.groovy:14"
             },
             "keyword": "Given "
           }
@@ -245,7 +245,7 @@
         "steps": [
           {
             "result": {
-              "duration": 99759,
+              "duration": 153127,
               "status": "passed"
             },
             "line": 22,
@@ -257,13 +257,13 @@
                   "offset": 21
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:30"
+              "location": "ContaOperacaoSteps.groovy:26"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 125622,
+              "duration": 286139,
               "status": "passed"
             },
             "line": 23,
@@ -275,19 +275,19 @@
                   "offset": 22
                 }
               ],
-              "location": "ContaOperacaoSteps.groovy:36"
+              "location": "ContaOperacaoSteps.groovy:32"
             },
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 517678,
+              "duration": 1693023,
               "status": "passed"
             },
             "line": 24,
             "name": "o saque não é realizado",
             "match": {
-              "location": "ContaOperacaoSteps.groovy:46"
+              "location": "ContaOperacaoSteps.groovy:42"
             },
             "keyword": "And "
           }

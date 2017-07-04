@@ -1,6 +1,6 @@
 package cucumberG.calculator.steps
 
-import cucumber.calculator.Calculator
+import exemplos.calculator.Calculator
 
 this.metaClass.mixin(cucumber.api.groovy.Hooks)
 this.metaClass.mixin(cucumber.api.groovy.EN)

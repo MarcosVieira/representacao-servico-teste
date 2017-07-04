@@ -43,10 +43,10 @@ formatter.match({
       "offset": 64
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:18"
+  "location": "ContaOperacaoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 11198012,
+  "duration": 24135436,
   "status": "passed"
 });
 formatter.scenario({
@@ -79,10 +79,10 @@ formatter.match({
       "offset": 21
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:30"
+  "location": "ContaOperacaoSteps.groovy:26"
 });
 formatter.result({
-  "duration": 222507,
+  "duration": 162569,
   "status": "passed"
 });
 formatter.match({
@@ -92,17 +92,17 @@ formatter.match({
       "offset": 22
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:36"
+  "location": "ContaOperacaoSteps.groovy:32"
 });
 formatter.result({
-  "duration": 403550,
+  "duration": 285728,
   "status": "passed"
 });
 formatter.match({
-  "location": "ContaOperacaoSteps.groovy:42"
+  "location": "ContaOperacaoSteps.groovy:38"
 });
 formatter.result({
-  "duration": 12069976,
+  "duration": 8399432,
   "status": "passed"
 });
 formatter.background({
@@ -136,10 +136,10 @@ formatter.match({
       "offset": 64
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:18"
+  "location": "ContaOperacaoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 525068,
+  "duration": 312413,
   "status": "passed"
 });
 formatter.scenario({
@@ -172,10 +172,10 @@ formatter.match({
       "offset": 21
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:30"
+  "location": "ContaOperacaoSteps.groovy:26"
 });
 formatter.result({
-  "duration": 154770,
+  "duration": 102632,
   "status": "passed"
 });
 formatter.match({
@@ -185,17 +185,17 @@ formatter.match({
       "offset": 22
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:36"
+  "location": "ContaOperacaoSteps.groovy:32"
 });
 formatter.result({
-  "duration": 136296,
+  "duration": 294350,
   "status": "passed"
 });
 formatter.match({
-  "location": "ContaOperacaoSteps.groovy:42"
+  "location": "ContaOperacaoSteps.groovy:38"
 });
 formatter.result({
-  "duration": 107559,
+  "duration": 117822,
   "status": "passed"
 });
 formatter.background({
@@ -229,10 +229,10 @@ formatter.match({
       "offset": 64
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:18"
+  "location": "ContaOperacaoSteps.groovy:14"
 });
 formatter.result({
-  "duration": 253707,
+  "duration": 602247,
   "status": "passed"
 });
 formatter.scenario({
@@ -265,10 +265,10 @@ formatter.match({
       "offset": 21
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:30"
+  "location": "ContaOperacaoSteps.groovy:26"
 });
 formatter.result({
-  "duration": 99759,
+  "duration": 153127,
   "status": "passed"
 });
 formatter.match({
@@ -278,17 +278,17 @@ formatter.match({
       "offset": 22
     }
   ],
-  "location": "ContaOperacaoSteps.groovy:36"
+  "location": "ContaOperacaoSteps.groovy:32"
 });
 formatter.result({
-  "duration": 125622,
+  "duration": 286139,
   "status": "passed"
 });
 formatter.match({
-  "location": "ContaOperacaoSteps.groovy:46"
+  "location": "ContaOperacaoSteps.groovy:42"
 });
 formatter.result({
-  "duration": 517678,
+  "duration": 1693023,
   "status": "passed"
 });
 });
