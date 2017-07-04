@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1343592,
+              "duration": 3531785,
               "status": "passed"
             },
             "line": 5,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 52899,
+              "duration": 106738,
               "status": "passed"
             },
             "line": 6,
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 34924,
+              "duration": 93601,
               "status": "passed"
             },
             "line": 7,
@@ -90,7 +90,7 @@
           },
           {
             "result": {
-              "duration": 32632,
+              "duration": 73895,
               "status": "passed"
             },
             "line": 8,
@@ -111,7 +111,7 @@
           },
           {
             "result": {
-              "duration": 50292,
+              "duration": 123569,
               "status": "passed"
             },
             "line": 9,
@@ -148,7 +148,7 @@
         "steps": [
           {
             "result": {
-              "duration": 68936,
+              "duration": 139580,
               "status": "passed"
             },
             "line": 5,
@@ -184,7 +184,7 @@
           },
           {
             "result": {
-              "duration": 33588,
+              "duration": 98938,
               "status": "passed"
             },
             "line": 6,
@@ -205,7 +205,7 @@
           },
           {
             "result": {
-              "duration": 28131,
+              "duration": 69380,
               "status": "passed"
             },
             "line": 7,
@@ -226,7 +226,7 @@
           },
           {
             "result": {
-              "duration": 30992,
+              "duration": 82927,
               "status": "passed"
             },
             "line": 8,
@@ -247,7 +247,7 @@
           },
           {
             "result": {
-              "duration": 35140,
+              "duration": 71432,
               "status": "passed"
             },
             "line": 9,

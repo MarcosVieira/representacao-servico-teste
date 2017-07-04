@@ -44,7 +44,7 @@ formatter.match({
   "location": "GeometriaSteps.groovy:17"
 });
 formatter.result({
-  "duration": 8639819,
+  "duration": 6928094,
   "status": "passed"
 });
 formatter.match({
@@ -61,7 +61,7 @@ formatter.match({
   "location": "GeometriaSteps.groovy:25"
 });
 formatter.result({
-  "duration": 1394830,
+  "duration": 226202,
   "status": "passed"
 });
 formatter.scenario({
@@ -96,7 +96,7 @@ formatter.match({
   "location": "GeometriaSteps.groovy:17"
 });
 formatter.result({
-  "duration": 143387,
+  "duration": 189665,
   "status": "passed"
 });
 formatter.match({
@@ -113,7 +113,7 @@ formatter.match({
   "location": "GeometriaSteps.groovy:30"
 });
 formatter.result({
-  "duration": 1674276,
+  "duration": 229075,
   "status": "passed"
 });
 formatter.scenario({
@@ -152,7 +152,7 @@ formatter.match({
   "location": "GeometriaSteps.groovy:21"
 });
 formatter.result({
-  "duration": 5281391,
+  "duration": 221685,
   "status": "passed"
 });
 formatter.match({
@@ -169,7 +169,7 @@ formatter.match({
   "location": "GeometriaSteps.groovy:35"
 });
 formatter.result({
-  "duration": 959641,
+  "duration": 229896,
   "status": "passed"
 });
 formatter.scenario({
@@ -208,7 +208,7 @@ formatter.match({
   "location": "GeometriaSteps.groovy:21"
 });
 formatter.result({
-  "duration": 153378,
+  "duration": 242212,
   "status": "passed"
 });
 formatter.match({
@@ -225,7 +225,7 @@ formatter.match({
   "location": "GeometriaSteps.groovy:40"
 });
 formatter.result({
-  "duration": 806878,
+  "duration": 310771,
   "status": "passed"
 });
 });

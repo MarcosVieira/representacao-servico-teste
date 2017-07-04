@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="0.014434">
-<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer uma venda com produto disponível" time="0.007908">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="0.039203">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer uma venda com produto disponível" time="0.028549">
 <system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
 When solicita a venda de 2 do produto.......................................passed
 Then a venda é realizada....................................................passed
@@ -8,7 +8,7 @@ And o estoque do produto fica 3.............................................pass
 And a quantidade vendida é 2................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer uma venda com produto indisponível" time="0.000753">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer uma venda com produto indisponível" time="0.001138">
 <system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
 When solicita a venda de 6 do produto.......................................passed
 Then a venda não é realizada................................................passed
@@ -16,7 +16,7 @@ And o estoque do produto fica 5.............................................pass
 And a quantidade vendida é 0................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer sequência de venda com produto disponível" time="0.000372">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer sequência de venda com produto disponível" time="0.00092">
 <system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
 When solicita a venda de 2 do produto.......................................passed
 And solicita a venda de 3 do produto........................................passed
@@ -25,7 +25,7 @@ And o estoque do produto fica 0.............................................pass
 And a quantidade vendida é 5................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer sequência de venda com produto indisponível" time="0.001573">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer sequência de venda com produto indisponível" time="0.000941">
 <system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
 When solicita a venda de 3 do produto.......................................passed
 And solicita a venda de 4 do produto........................................passed
@@ -34,7 +34,7 @@ And o estoque do produto fica 2.............................................pass
 And a quantidade vendida é 3................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto" time="0.001686">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto" time="0.003443">
 <system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
 Given foi criado o produto "pepino kg" de número 111 com preço 3.50 e estoque 10.passed
 When solicita a venda de 2 do produto.......................................passed
@@ -45,7 +45,7 @@ And a quantidade vendida é 7................................................pas
 And e o total das vendas do produto será de 24.50...........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 2" time="0.000843">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 2" time="0.001361">
 <system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
 Given foi criado o produto "pimentao kg" de número 123 com preço 5.00 e estoque 08.passed
 When solicita a venda de 3 do produto.......................................passed
@@ -56,7 +56,7 @@ And a quantidade vendida é 8................................................pas
 And e o total das vendas do produto será de 40.00...........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 3" time="0.000616">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 3" time="0.001337">
 <system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
 Given foi criado o produto "gengibre kg" de número 234 com preço 3.00 e estoque 06.passed
 When solicita a venda de 4 do produto.......................................passed
@@ -67,7 +67,7 @@ And a quantidade vendida é 4................................................pas
 And e o total das vendas do produto será de 12.00...........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 4" time="0.000683">
+<testcase classname="Testar as movimentações básicas sobre um produto na quitanda" name="Fazer venda e reposição de produto 4" time="0.001514">
 <system-out><![CDATA[Given foi criado o produto "abacate kg" de número 123 com preço 2.50 e estoque 5.passed
 Given foi criado o produto "pimenta kg" de número 345 com preço 4.50 e estoque 03.passed
 When solicita a venda de 5 do produto.......................................passed

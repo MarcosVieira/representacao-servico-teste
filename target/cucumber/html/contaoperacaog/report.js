@@ -46,7 +46,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:18"
 });
 formatter.result({
-  "duration": 4248100,
+  "duration": 11198012,
   "status": "passed"
 });
 formatter.scenario({
@@ -82,7 +82,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:30"
 });
 formatter.result({
-  "duration": 124714,
+  "duration": 222507,
   "status": "passed"
 });
 formatter.match({
@@ -95,14 +95,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:36"
 });
 formatter.result({
-  "duration": 250653,
+  "duration": 403550,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.groovy:42"
 });
 formatter.result({
-  "duration": 109567,
+  "duration": 12069976,
   "status": "passed"
 });
 formatter.background({
@@ -139,7 +139,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:18"
 });
 formatter.result({
-  "duration": 167640,
+  "duration": 525068,
   "status": "passed"
 });
 formatter.scenario({
@@ -175,7 +175,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:30"
 });
 formatter.result({
-  "duration": 49227,
+  "duration": 154770,
   "status": "passed"
 });
 formatter.match({
@@ -188,14 +188,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:36"
 });
 formatter.result({
-  "duration": 53605,
+  "duration": 136296,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.groovy:42"
 });
 formatter.result({
-  "duration": 19113,
+  "duration": 107559,
   "status": "passed"
 });
 formatter.background({
@@ -232,7 +232,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:18"
 });
 formatter.result({
-  "duration": 99143,
+  "duration": 253707,
   "status": "passed"
 });
 formatter.scenario({
@@ -268,7 +268,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:30"
 });
 formatter.result({
-  "duration": 42427,
+  "duration": 99759,
   "status": "passed"
 });
 formatter.match({
@@ -281,14 +281,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.groovy:36"
 });
 formatter.result({
-  "duration": 58139,
+  "duration": 125622,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.groovy:46"
 });
 formatter.result({
-  "duration": 78381,
+  "duration": 517678,
   "status": "passed"
 });
 });

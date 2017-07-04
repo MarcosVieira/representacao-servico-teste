@@ -62,7 +62,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:11"
 });
 formatter.result({
-  "duration": 18450471,
+  "duration": 3938619,
   "status": "passed"
 });
 formatter.match({
@@ -75,7 +75,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:11"
 });
 formatter.result({
-  "duration": 113449,
+  "duration": 124801,
   "status": "passed"
 });
 formatter.match({
@@ -88,7 +88,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:15"
 });
 formatter.result({
-  "duration": 8198475,
+  "duration": 365782,
   "status": "passed"
 });
 formatter.match({
@@ -101,7 +101,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:19"
 });
 formatter.result({
-  "duration": 464980,
+  "duration": 199107,
   "status": "passed"
 });
 formatter.scenario({
@@ -142,7 +142,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:11"
 });
 formatter.result({
-  "duration": 66748,
+  "duration": 108790,
   "status": "passed"
 });
 formatter.match({
@@ -155,7 +155,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:11"
 });
 formatter.result({
-  "duration": 42140,
+  "duration": 112895,
   "status": "passed"
 });
 formatter.match({
@@ -168,7 +168,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:15"
 });
 formatter.result({
-  "duration": 64688,
+  "duration": 126853,
   "status": "passed"
 });
 formatter.match({
@@ -181,7 +181,7 @@ formatter.match({
   "location": "CalculatorSteps.groovy:19"
 });
 formatter.result({
-  "duration": 45463,
+  "duration": 117412,
   "status": "passed"
 });
 });

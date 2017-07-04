@@ -44,14 +44,14 @@ formatter.match({
   "location": "CukesSteps.groovy:8"
 });
 formatter.result({
-  "duration": 8258225,
+  "duration": 14387004,
   "status": "passed"
 });
 formatter.match({
   "location": "CukesSteps.groovy:12"
 });
 formatter.result({
-  "duration": 73753,
+  "duration": 199107,
   "status": "passed"
 });
 formatter.scenario({
@@ -86,7 +86,7 @@ formatter.match({
   "location": "CukesSteps.groovy:8"
 });
 formatter.result({
-  "duration": 86049,
+  "duration": 186791,
   "status": "passed"
 });
 formatter.match({
@@ -103,7 +103,7 @@ formatter.match({
   "location": "CukesSteps.groovy:8"
 });
 formatter.result({
-  "duration": 47806,
+  "duration": 481962,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -205,7 +205,7 @@ formatter.match({
   "location": "CukesSteps.groovy:8"
 });
 formatter.result({
-  "duration": 92291,
+  "duration": 218401,
   "status": "passed"
 });
 formatter.match({
@@ -218,7 +218,7 @@ formatter.match({
   "location": "CukesSteps.groovy:16"
 });
 formatter.result({
-  "duration": 122042,
+  "duration": 420382,
   "status": "passed"
 });
 formatter.scenario({
@@ -266,7 +266,7 @@ formatter.match({
   "location": "CukesSteps.groovy:8"
 });
 formatter.result({
-  "duration": 86804,
+  "duration": 232770,
   "status": "passed"
 });
 formatter.match({
@@ -279,7 +279,7 @@ formatter.match({
   "location": "CukesSteps.groovy:16"
 });
 formatter.result({
-  "duration": 48924,
+  "duration": 193360,
   "status": "passed"
 });
 formatter.scenario({
@@ -322,7 +322,7 @@ formatter.match({
   "location": "CukesSteps.groovy:20"
 });
 formatter.result({
-  "duration": 1207080,
+  "duration": 2974696,
   "status": "passed"
 });
 formatter.scenario({
@@ -393,14 +393,14 @@ formatter.match({
   "location": "CukesSteps.groovy:24"
 });
 formatter.result({
-  "duration": 475507,
+  "duration": 889206,
   "status": "passed"
 });
 formatter.match({
   "location": "CukesSteps.groovy:24"
 });
 formatter.result({
-  "duration": 160727,
+  "duration": 463898,
   "status": "passed"
 });
 formatter.scenario({
@@ -431,7 +431,7 @@ formatter.match({
   "location": "CukesSteps.groovy:31"
 });
 formatter.result({
-  "duration": 192873,
+  "duration": 415045,
   "status": "passed"
 });
 formatter.scenario({
@@ -522,7 +522,7 @@ formatter.match({
   "location": "CukesSteps.groovy:35"
 });
 formatter.result({
-  "duration": 105223,
+  "duration": 249192,
   "status": "passed"
 });
 formatter.match({
@@ -535,35 +535,35 @@ formatter.match({
   "location": "CukesSteps.groovy:39"
 });
 formatter.result({
-  "duration": 74370,
+  "duration": 227023,
   "status": "passed"
 });
 formatter.match({
   "location": "CukesSteps.groovy:43"
 });
 formatter.result({
-  "duration": 71713,
+  "duration": 188433,
   "status": "passed"
 });
 formatter.match({
   "location": "CukesSteps.groovy:47"
 });
 formatter.result({
-  "duration": 133144,
+  "duration": 505362,
   "status": "passed"
 });
 formatter.match({
   "location": "CukesSteps.groovy:51"
 });
 formatter.result({
-  "duration": 78688,
+  "duration": 386719,
   "status": "passed"
 });
 formatter.match({
   "location": "CukesSteps.groovy:55"
 });
 formatter.result({
-  "duration": 89311,
+  "duration": 264792,
   "status": "passed"
 });
 });

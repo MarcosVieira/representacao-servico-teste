@@ -175,7 +175,7 @@ formatter.match({
   "location": "ContaSteps.groovy:17"
 });
 formatter.result({
-  "duration": 1502387,
+  "duration": 4023189,
   "status": "passed"
 });
 formatter.match({
@@ -188,7 +188,7 @@ formatter.match({
   "location": "ContaSteps.groovy:29"
 });
 formatter.result({
-  "duration": 480378,
+  "duration": 679837,
   "status": "passed"
 });
 formatter.match({
@@ -201,7 +201,7 @@ formatter.match({
   "location": "ContaSteps.groovy:35"
 });
 formatter.result({
-  "duration": 418624,
+  "duration": 628110,
   "status": "passed"
 });
 formatter.match({
@@ -214,7 +214,7 @@ formatter.match({
   "location": "ContaSteps.groovy:35"
 });
 formatter.result({
-  "duration": 89354,
+  "duration": 145328,
   "status": "passed"
 });
 formatter.match({
@@ -227,7 +227,7 @@ formatter.match({
   "location": "ContaSteps.groovy:41"
 });
 formatter.result({
-  "duration": 203728,
+  "duration": 441730,
   "status": "passed"
 });
 formatter.scenario({
@@ -309,7 +309,7 @@ formatter.match({
   "location": "ContaSteps.groovy:17"
 });
 formatter.result({
-  "duration": 111515,
+  "duration": 250833,
   "status": "passed"
 });
 formatter.match({
@@ -322,7 +322,7 @@ formatter.match({
   "location": "ContaSteps.groovy:29"
 });
 formatter.result({
-  "duration": 60009,
+  "duration": 131369,
   "status": "passed"
 });
 formatter.match({
@@ -335,7 +335,7 @@ formatter.match({
   "location": "ContaSteps.groovy:35"
 });
 formatter.result({
-  "duration": 41554,
+  "duration": 119875,
   "status": "passed"
 });
 formatter.match({
@@ -348,7 +348,7 @@ formatter.match({
   "location": "ContaSteps.groovy:35"
 });
 formatter.result({
-  "duration": 40886,
+  "duration": 128495,
   "status": "passed"
 });
 formatter.match({
@@ -361,7 +361,7 @@ formatter.match({
   "location": "ContaSteps.groovy:41"
 });
 formatter.result({
-  "duration": 51270,
+  "duration": 139169,
   "status": "passed"
 });
 });

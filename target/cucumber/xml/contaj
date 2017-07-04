@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.001711">
-<testcase classname="Testar as operações básicas de conta" name="Testar saque e depósito" time="0.001514">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.004392">
+<testcase classname="Testar as operações básicas de conta" name="Testar saque e depósito" time="0.00393">
 <system-out><![CDATA[Given a conta criada para o dono "Brendo" de número 111 com limite 1000 e saldo 0.passed
 When o dono realiza um depósito no valor de 100 na conta....................passed
 And o dono realiza um saque no valor de 10 na conta.........................passed
@@ -8,7 +8,7 @@ And o dono realiza um saque no valor de 10 na conta.........................pass
 Then o dono tem saldo na conta no valor de 80...............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Testar as operações básicas de conta" name="Testar saque e depósito 2" time="0.000197">
+<testcase classname="Testar as operações básicas de conta" name="Testar saque e depósito 2" time="0.000462">
 <system-out><![CDATA[Given a conta criada para o dono "Hiago" de número 222 com limite 1000 e saldo 0.passed
 When o dono realiza um depósito no valor de 200 na conta....................passed
 And o dono realiza um saque no valor de 10 na conta.........................passed

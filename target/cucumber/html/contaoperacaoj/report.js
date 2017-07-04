@@ -46,7 +46,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
 });
 formatter.result({
-  "duration": 1878452,
+  "duration": 4042894,
   "status": "passed"
 });
 formatter.scenario({
@@ -82,7 +82,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_dono_solicita_um_saque_de(Double)"
 });
 formatter.result({
-  "duration": 71156,
+  "duration": 125622,
   "status": "passed"
 });
 formatter.match({
@@ -95,14 +95,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_saldo_da_conta_fica(Double)"
 });
 formatter.result({
-  "duration": 58649,
+  "duration": 118233,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.o_saque_e_realizado()"
 });
 formatter.result({
-  "duration": 21541,
+  "duration": 86622,
   "status": "passed"
 });
 formatter.background({
@@ -139,7 +139,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
 });
 formatter.result({
-  "duration": 94141,
+  "duration": 206907,
   "status": "passed"
 });
 formatter.scenario({
@@ -175,7 +175,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_dono_solicita_um_saque_de(Double)"
 });
 formatter.result({
-  "duration": 31125,
+  "duration": 98527,
   "status": "passed"
 });
 formatter.match({
@@ -188,14 +188,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_saldo_da_conta_fica(Double)"
 });
 formatter.result({
-  "duration": 35241,
+  "duration": 111664,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.o_saque_e_realizado()"
 });
 formatter.result({
-  "duration": 11719,
+  "duration": 27095,
   "status": "passed"
 });
 formatter.background({
@@ -232,7 +232,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
 });
 formatter.result({
-  "duration": 71440,
+  "duration": 133832,
   "status": "passed"
 });
 formatter.scenario({
@@ -268,7 +268,7 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_dono_solicita_um_saque_de(Double)"
 });
 formatter.result({
-  "duration": 30091,
+  "duration": 66505,
   "status": "passed"
 });
 formatter.match({
@@ -281,14 +281,14 @@ formatter.match({
   "location": "ContaOperacaoSteps.o_saldo_da_conta_fica(Double)"
 });
 formatter.result({
-  "duration": 43927,
+  "duration": 69790,
   "status": "passed"
 });
 formatter.match({
   "location": "ContaOperacaoSteps.o_saque_nao_e_realizado()"
 });
 formatter.result({
-  "duration": 21580,
+  "duration": 35305,
   "status": "passed"
 });
 });

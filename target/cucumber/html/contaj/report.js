@@ -175,7 +175,7 @@ formatter.match({
   "location": "ContaSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
 });
 formatter.result({
-  "duration": 1343592,
+  "duration": 3531785,
   "status": "passed"
 });
 formatter.match({
@@ -188,7 +188,7 @@ formatter.match({
   "location": "ContaSteps.o_dono_realiza_um_deposito_na_conta(Double)"
 });
 formatter.result({
-  "duration": 52899,
+  "duration": 106738,
   "status": "passed"
 });
 formatter.match({
@@ -201,7 +201,7 @@ formatter.match({
   "location": "ContaSteps.o_dono_realiza_um_saque_na_conta(Double)"
 });
 formatter.result({
-  "duration": 34924,
+  "duration": 93601,
   "status": "passed"
 });
 formatter.match({
@@ -214,7 +214,7 @@ formatter.match({
   "location": "ContaSteps.o_dono_realiza_um_saque_na_conta(Double)"
 });
 formatter.result({
-  "duration": 32632,
+  "duration": 73895,
   "status": "passed"
 });
 formatter.match({
@@ -227,7 +227,7 @@ formatter.match({
   "location": "ContaSteps.o_dono_tem_o_saldo_no_valor_de(Double)"
 });
 formatter.result({
-  "duration": 50292,
+  "duration": 123569,
   "status": "passed"
 });
 formatter.scenario({
@@ -309,7 +309,7 @@ formatter.match({
   "location": "ContaSteps.a_conta_criada_para_o_dono_de_numero_com_limite_e_saldo(String,int,Double,Double)"
 });
 formatter.result({
-  "duration": 68936,
+  "duration": 139580,
   "status": "passed"
 });
 formatter.match({
@@ -322,7 +322,7 @@ formatter.match({
   "location": "ContaSteps.o_dono_realiza_um_deposito_na_conta(Double)"
 });
 formatter.result({
-  "duration": 33588,
+  "duration": 98938,
   "status": "passed"
 });
 formatter.match({
@@ -335,7 +335,7 @@ formatter.match({
   "location": "ContaSteps.o_dono_realiza_um_saque_na_conta(Double)"
 });
 formatter.result({
-  "duration": 28131,
+  "duration": 69380,
   "status": "passed"
 });
 formatter.match({
@@ -348,7 +348,7 @@ formatter.match({
   "location": "ContaSteps.o_dono_realiza_um_saque_na_conta(Double)"
 });
 formatter.result({
-  "duration": 30992,
+  "duration": 82927,
   "status": "passed"
 });
 formatter.match({
@@ -361,7 +361,7 @@ formatter.match({
   "location": "ContaSteps.o_dono_tem_o_saldo_no_valor_de(Double)"
 });
 formatter.result({
-  "duration": 35140,
+  "duration": 71432,
   "status": "passed"
 });
 });
